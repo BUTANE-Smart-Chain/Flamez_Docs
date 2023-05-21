@@ -26,7 +26,7 @@ export default {
     "project": {
       "name": "Flamez",
       "denom": "FLMZ",
-      "ticker": "$BBC",
+      "ticker": "$AME",
       "binary": "bbcsd",
       "testnet_denom": "tBBC",
       "testnet_ticker": "tBBC",
@@ -178,23 +178,15 @@ export default {
           "items": [
             {
               "label": "Telegram",
-              "href": "https://t.me/butanechain"
-            },
-            {
-              "label": "Youtbe Academy",
-              "href": "https://www.youtube.com/@ButaneAcademy"
+              "href": "https://t.me/flamezbbc"
             },
             {
               "label": "Discord",
-              "href": "https://discord.gg/zk4t92b9MX"
-            },
-            {
-              "label": "Discord Developers",
-              "href": "https://discord.gg/je3pBf2h"
+              "href": "https://discord.gg/e9NCkPA2DV"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/Butane_Network"
+              "href": "https://twitter.com/Flamez_io"
             }
           ]
         },
@@ -203,11 +195,11 @@ export default {
           "items": [
             {
               "label": "Staking",
-              "to": "https://medium.com/@butanegas101"
+              "to": "https://app.flamez.io/pools"
             },
             {
               "label": "Partner with Flamez",
-              "href": "https://github.com/BUTANE-Smart-Chain"
+              "href": "https://github.com/flamez-io"
             }
           ]
         }
@@ -483,7 +475,7 @@ export default {
       },
       {
         "name": "keywords",
-        "content": "EMM, cross-chain, Butane SDK, IBC, fast-finality, native, cross-chain applications, EVM on Butane"
+        "content": "Flamez, AMM, DEX, DeFi, Blockchain, Cryptocurrency, Crypto trading, Liquidity, Swap, Yield farming, Staking, Butane, Smart contracts, Gas fees, Wallet, Token, ICO, dApp, Governance token, Interoperability"
       },
       {
         "name": "viewport",

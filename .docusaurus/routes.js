@@ -49,7 +49,7 @@ export default [
   },
   {
     path: '/develop',
-    component: ComponentCreator('/develop', '96f'),
+    component: ComponentCreator('/develop', 'bd7'),
     routes: [
       {
         path: '/develop',
@@ -64,12 +64,6 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/develop/api/cosmos-grpc',
-        component: ComponentCreator('/develop/api/cosmos-grpc', '954'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/develop/backend',
         component: ComponentCreator('/develop/backend', '84b'),
         exact: true,
@@ -78,6 +72,12 @@ export default [
       {
         path: '/develop/smart-contracts',
         component: ComponentCreator('/develop/smart-contracts', '296'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/develop/smart-contracts/howto',
+        component: ComponentCreator('/develop/smart-contracts/howto', 'cc8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -102,12 +102,6 @@ export default [
       {
         path: '/develop/testnet/bbchow',
         component: ComponentCreator('/develop/testnet/bbchow', '826'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/develop/testnet/faq',
-        component: ComponentCreator('/develop/testnet/faq', 'a83'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -1,8 +1,8 @@
 {
   "unversionedId": "smart-contracts/list-evm-extensions",
   "id": "smart-contracts/list-evm-extensions",
-  "title": "List of EVM Extensions",
-  "description": "Available Extensions",
+  "title": "How to Use Farms",
+  "description": "Yield Farming on Flamez is easy!",
   "source": "@site/docs/develop/smart-contracts/list-evm-extensions.md",
   "sourceDirName": "smart-contracts",
   "slug": "/smart-contracts/list-evm-extensions",
@@ -21,7 +21,7 @@
     "permalink": "/develop/smart-contracts/"
   },
   "next": {
-    "title": "Pools",
-    "permalink": "/develop/testnet/"
+    "title": "How to Use Farms with BbcScan",
+    "permalink": "/develop/smart-contracts/howto"
   }
 }

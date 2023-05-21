@@ -1,28 +1,26 @@
-# Tools
+# Lottery
 
-Tools play a crucial role in blockchain development as they help streamline the development process and make it easier
-for developers to build and deploy decentralized applications (dApps). Decentralized applications (dApps) are built on
-blockchain technology, which requires specific tools and frameworks for development. Some of the most commonly used tools
- in dApp development include:
+Playing the Flamez Lottery gives you a chance to win huge FLAMEZ prizes! It's easy, fair, and you can enter as often as you like as long as you have the FLAMEZ to buy a ticket.
 
-- [Oracles](./oracles.md): an oracle is a third-party service that provides external information or data to the blockchain
-network upon which the dApp operates.
-- [Explorers](./explorers.md): Block explorers are online tools that allow users to browse and search a blockchain's
-transaction history, view current network statistics, and explore individual blocks, transactions, and addresses. They
-provide a user-friendly way to interact with a blockchain, making it easy to track transactions, monitor network
-activity, and gain insights into the inner workings of the blockchain.
-- [Indexers](./indexers.md): Indexers are services that provide developers with fast and efficient access to blockchain data.
-They allow developers to query a blockchain's transaction history, account balances, smart contracts, and other data
-in a more flexible and user-friendly way compared to using raw blockchain data.
-- [Tools and Plugins](./tools-plugins.md): There are many tools and plugins to aid in the development of dApps. These include
-smart contract languages and frameworks, development environments, wallet and identity management plugins, and analytics
-and monitoring tools.
-- [Client Integration](./client-integrations.md): EvmosJS and PyEvmos are two examples of client integration toolings to
-help developers interact with our core protocol features by providing interfaces, types, signing abstractions, and more.
-- [Contract Verifications](./contract-verifications.md): This is an important process in blockchain development that
-involves validating the authenticity and accuracy of smart contract code before deploying it to the blockchain. Contract
-verification serves to increase transparency, improves contract accuracy, prevents fraud and malicious activities,
-and increases adoption.
-- [BNS](./butane-name-service.md): Is a distributed, open, and extensible naming system based on the Butane Network.BNS’s job is to map human-readable names like ‘alice.bbc’ to machine-readable identifiers such as Ethereum addresses
+## Specifics:
+- Lottery ticket cost for 1 ticket: ~1000 FLAMEZ
+- Individual user Lottery entry limit: No overall limit, but only 100 tickets can be bought at a time.
+- Paying for one ticket will give users a random 6-digit combination with each digit being between 0-9, for e.g. "1-9-3-2-0-4". Match numbers from the left to win prizes—the more numbers that match, the bigger the prize pool you'll share in.
+- Lottery uses Chainlink's implementation of VRF for true, secure randomness.
 
-Dive in further into the above toolings by visiting the subsequent pages.
+## Ticket costs and bulk purchase discount
+Lottery ticket prices are set at the start of the new lottery round, and target $5 USD (may vary slightly with sudden price fluctuations).
+
+Buying multiple Lottery tickets at once gives a bulk discount on your purchase. You can buy as many as 100 tickets in one purchase, with the discount starting small at 2 tickets, and scaling up to 4.95% at 100 tickets.
+
+## How to win
+Match numbers, from the left side of your ticket, to the winning numbers drawn at the end of a Lottery round.
+
+- Matching even just the first number will win you a small prize.
+- Match more numbers to win a share of a larger prize pool.
+
+## Prize eligibility
+There are a total of six lottery balls, from 0 to 9, on each ticket. To win, your numbers need to match the drawn numbers in the same order as the lottery balls, starting from the left of the ticket.
+
+## Prize sharing across prize brackets
+After a round is drawn, and tickets with matching numbers are determined, the prizes are awarded. The amount won by each ticket will depend on how many other tickets won in the same prize bracket.

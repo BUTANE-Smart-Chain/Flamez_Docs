@@ -64,18 +64,18 @@ function Home() {
               />
 
               <Card
-                to="./develop/smart-contracts"
+                to="./use/tokenomics"
                 header={{
-                  label: "💲 Flamez Fees",
+                  label: "💲 $AME Rewards",
                 }}
                 body={{
                   label:
-                    "Flamez Fees are strategically designed to fan the flames of $FLMZ value",
+                    "Flamez Rewards are strategically designed to give back to the community, rewarding holders with $AME tokens for every trade",
                 }}
               />
 
               <Card
-                to="./protocol/security"
+                to="./develop "
                 header={{
                   label: "🛡️ KYC & Audit",
                 }}

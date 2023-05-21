@@ -1,8 +1,8 @@
 {
   "unversionedId": "tools/tools-plugins",
   "id": "tools/tools-plugins",
-  "title": "Tools and IDE Plugins",
-  "description": "Smart Contract Development Tools",
+  "title": "How to Play Lottery",
+  "description": "Flamez's Lottery is not only a good way to make stacks of FLAMEZ, it's also loads of fun! This guide will walk you through getting involved in the Lottery.",
   "source": "@site/docs/develop/tools/tools-plugins.md",
   "sourceDirName": "tools",
   "slug": "/tools/tools-plugins",
@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/tools-plugins.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tools",
+    "title": "Lottery",
     "permalink": "/develop/tools/"
   },
   "next": {
-    "title": "API",
+    "title": "Votting",
     "permalink": "/develop/api/"
   }
 }

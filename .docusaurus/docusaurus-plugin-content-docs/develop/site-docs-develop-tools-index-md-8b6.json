@@ -1,8 +1,8 @@
 {
   "unversionedId": "tools/index",
   "id": "tools/index",
-  "title": "Tools",
-  "description": "Tools play a crucial role in blockchain development as they help streamline the development process and make it easier",
+  "title": "Lottery",
+  "description": "Playing the Flamez Lottery gives you a chance to win huge FLAMEZ prizes! It's easy, fair, and you can enter as often as you like as long as you have the FLAMEZ to buy a ticket.",
   "source": "@site/docs/develop/tools/index.md",
   "sourceDirName": "tools",
   "slug": "/tools/",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Pool FAQ & Troubleshooting",
-    "permalink": "/develop/testnet/faq"
+    "title": "Auto AMPLE Pool",
+    "permalink": "/develop/testnet/bbchow"
   },
   "next": {
-    "title": "Tools and IDE Plugins",
+    "title": "How to Play Lottery",
     "permalink": "/develop/tools/tools-plugins"
   }
 }

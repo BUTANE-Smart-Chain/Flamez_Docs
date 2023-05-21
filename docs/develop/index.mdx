@@ -4,50 +4,95 @@ sidebar_position: 1
 
 # 🔥 Exchange 
 
-Following this documentation and our academy you can learn how to build a dApp on Butane and become part of the rich
-ecosystem of EVM builders. Whether you are building new use cases on Butane or porting an existing dApp from
-another chain, you'll want to check out the sections on
+## Token Swaps
 
-1. Building and deploying [EVM Smart Contracts](./develop/smart-contracts)
-2. Building a web3 [Frontend](./develop/build-a-dApp/build-a-frontend#wallet-integration) that supports Keplr and Metamask
-3. Using a [Backend](./develop/create-backend) to create a seamless web3 experience
-4. Available developer [Tools](./tools/index.md)
+Token swaps on Flamez are a simple way to trade one BEP20 token for another via automated liquidity pools.
 
+When you make a token swap (trade) on the exchange, you will pay a 0.30% trading fee, which is broken down as follows:
 
-Once tested on [Testnet](./../develop/testnet) and deployed on [Mainnet](./../develop/mainnet), you can
-start [earning an income](./../develop/mainnet#revenue) on transaction fees from interacting with your dApp or
-[register your tokens](./../develop/mainnet#token-registration) for cross-chain use.
+- 0.15% - Returned to liquidity pools in the form of a fee reward for liquidity providers.
+- 0.05% - Buyback FLAMEZ for burn/ Stable coin Pool
+- 0.05% - Project Support Program
+- 0.05% - Sent to the Flamez Treasury.
 
-import { chainConfig, handler } from '@site/src/utils/ChainConfig';
+## How to Trade
 
-:::tip
-Add Butane Testnet to Keplr.
+Trading on Flamez is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and calculations are all handled for you.
 
-<button onClick={() => handler()} className="bg-red mt-4 hover:bg-red1 text-white font-bold py-2 px-4 rounded">
-  Add Configuration to Keplr
-</button>
+### Getting set up to trade
 
-To add Metamask Testnet, head over [here](https://chainlist.org/?testnets=true&search=Butane).
-:::
+Before you can trade, you will need a Binance Smart Chain-compatible wallet. You will also need to have some BEP20 tokens to trade with.
 
-## Why develop dApps on Butane?
+### Trading on the Flamez exchange
 
-The Butane Core Development Team is on a mission to provide the foundational tools necessary for building the cross-chain
-applications of the future, freeing developers from the confines of today’s siloed blockchains.
+1. Go to the exchange page.
+2. Unlock your Binance Smart Chain-compatible wallet by clicking Unlock Wallet (you can also Connect in the top right-hand corner).
+3. Choose the token you want to trade from the dropdown menu in the "From" section. The default setting is BNB.
+4. Choose the token you want to trade to in the "To" section as above. Next, type an amount for your "To" currency by clicking inside the input box.
+5. Check the details, and click the Swap button.
+6. A window with more details will appear. Check the details are correct.
+7. Done! You can click View on BscScan to see your transaction details on the explorer.
 
-Butane focuses on cross-chain **innovation** so that developers can build entirely new dApp experiences for their users.
-Deploying smart contracts on Butane is **easy**, as the Butane blockchain is fully compatible with Ethereum and its rich
-ecosystem of robust tooling, wallets, explorers, a surplus of assets, and intelligent end-users. At the same time,
-Butane allows developers to build **scalable** EVM dApp chains with the upcoming Butane SDK and it hosts one of the
-most active community governance that seeks **fairness** across all key actors (users, builders, and validators).
+# Liquidity Pools
 
-Butane does this by leveraging the interoperability of the Cosmos Ecosystem and the market-dominating support for EVM
-development. This allows dApp developers to use Ethereum smart contracts to implement the business logic on-chain
-while having access to Cosmos chain functionalities, such as exchanging value with the rest of the Cosmos Ecosystem
-through the Inter Blockchain Communication Protocol (IBC).
+When you add your token to a Liquidity Pool you will receive Liquidity Provider (LP) tokens and share in the fees.
 
-## Contributors
+## LP Tokens
 
-You can also contribute to the Butane ecosystem without building a dApp. Head over to [tools](./tools/index.md) to learn
-how to contribute as a full-stack developer by building new dev tools or [protocol](../protocol) to help
-out building the core protocol.
+As an example, if you deposited FLAMEZ and BNB into a Liquidity Pool, you'd receive FLAMEZ-BNB LP tokens.
+
+The number of LP tokens you receive represents your portion of the FLAMEZ-BNB Liquidity Pool.
+
+You can also redeem your funds at any time by removing your liquidity.
+
+## Liquidity Providers earn trading fees
+
+Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool.
+
+Whenever someone trades on Flamez, the trader pays a 0.25% fee, of which 0.17% is added to the Liquidity Pool of the swap pair they traded on.
+
+## Impermanent Loss
+
+Providing liquidity is not without risk, as you may be exposed to impermanent loss.
+
+# How to Add/Remove Liquidity
+
+"Liquidity" is central to how Flamez's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
+
+In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can stake in Farms to earn FLAMEZ rewards!
+
+## Adding liquidity
+
+To provide liquidity, you’ll need to commit an amount of any token pair you like. Your lowest value (in USD) of the two tokens will be the limit to the liquidity you can provide.
+
+In this example, we will add liquidity using BNB and FLAMEZ.
+
+1. Visit the Liquidity page.
+2. Click the Add Liquidity button.
+3. For the top Input, leave BNB as it is.
+4. For the bottom input, click ‘Select a currency’ and pick FLAMEZ.
+5. Enter an amount on one ofI apologize for the cutoff. Here's the continuation:
+
+```markdown
+the tokens under “Input”. The other will calculate automatically.
+6. Click the Approve FLAMEZ button. Your wallet will ask you to confirm the action.
+7. The Supply button will light up. Click it.
+8. A window will appear saying how much you will receive. Click the Confirm Supply button. Your wallet will ask you to confirm the action.
+9. After a short wait you will see your LP Token balance at the bottom of the page.
+
+You can repeat the steps above to add more liquidity at any time.
+
+## Removing liquidity
+
+To remove liquidity:
+
+1. Visit the Liquidity page.
+2. Click on your pair under "Your Liquidity".
+3. Click Remove. A new window will appear.
+4. Use the buttons or slider to choose what percent to remove. Choose MAX to remove everything.
+5. Click Approve. Your wallet will ask you to confirm the action.
+6. The Remove button will light up. Click it.
+7. A window will appear saying what you will receive. Click Confirm. Your wallet will ask you to confirm the action.
+8. After a short wait you will see your new LP Token balance at the bottom of the page.
+
+## KYC & Audit (Link)

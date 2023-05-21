@@ -529,37 +529,10 @@
           "contentPathLocalized": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\i18n\\en\\docusaurus-plugin-content-docs-develop\\current",
           "docs": [
             {
-              "unversionedId": "api/cosmos-grpc",
-              "id": "api/cosmos-grpc",
-              "title": "Butane (Coming Soon) gRPC & REST",
-              "description": "Butane gRPC",
-              "source": "@site/docs/develop/api/cosmos-grpc.md",
-              "sourceDirName": "api",
-              "slug": "/api/cosmos-grpc",
-              "permalink": "/develop/api/cosmos-grpc",
-              "draft": false,
-              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/api/cosmos-grpc.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "API",
-                "permalink": "/develop/api/"
-              },
-              "next": {
-                "title": "NFT MarketPlace",
-                "permalink": "/develop/backend"
-              }
-            },
-            {
               "unversionedId": "api/index",
               "id": "api/index",
-              "title": "API",
-              "description": "These following API's are recommended for development purposes. For maximun control and reliability it's recommended to run your own node.",
+              "title": "Votting",
+              "description": "How to Vote?",
               "source": "@site/docs/develop/api/index.mdx",
               "sourceDirName": "api",
               "slug": "/api/",
@@ -571,19 +544,19 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tools and IDE Plugins",
+                "title": "How to Play Lottery",
                 "permalink": "/develop/tools/tools-plugins"
               },
               "next": {
-                "title": "Butane (Coming Soon) gRPC & REST",
-                "permalink": "/develop/api/cosmos-grpc"
+                "title": "NFT MarketPlace",
+                "permalink": "/develop/backend"
               }
             },
             {
               "unversionedId": "backend",
               "id": "backend",
               "title": "NFT MarketPlace",
-              "description": "It is important to note that not all DApps require a backend. For example, if the DApp is designed solely for",
+              "description": "Flamez Partnership with FireFlys NFT Marketplace",
               "source": "@site/docs/develop/backend.md",
               "sourceDirName": ".",
               "slug": "/backend",
@@ -595,15 +568,15 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Butane (Coming Soon) gRPC & REST",
-                "permalink": "/develop/api/cosmos-grpc"
+                "title": "Votting",
+                "permalink": "/develop/api/"
               }
             },
             {
               "unversionedId": "index",
               "id": "index",
               "title": "🔥 Exchange",
-              "description": "Following this documentation and our academy you can learn how to build a dApp on Butane and become part of the rich",
+              "description": "Token Swaps",
               "source": "@site/docs/develop/index.mdx",
               "sourceDirName": ".",
               "slug": "/",
@@ -623,10 +596,37 @@
               }
             },
             {
+              "unversionedId": "smart-contracts/howto",
+              "id": "smart-contracts/howto",
+              "title": "How to Use Farms with BbcScan",
+              "description": "Since it requires several steps, using Farms with Flamez can seem intimidating at first. This guide will walk you through using the Farms contract directly through BbcScan.",
+              "source": "@site/docs/develop/smart-contracts/howto.md",
+              "sourceDirName": "smart-contracts",
+              "slug": "/smart-contracts/howto",
+              "permalink": "/develop/smart-contracts/howto",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/smart-contracts/howto.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to Use Farms",
+                "permalink": "/develop/smart-contracts/list-evm-extensions"
+              },
+              "next": {
+                "title": "Pools",
+                "permalink": "/develop/testnet/"
+              }
+            },
+            {
               "unversionedId": "smart-contracts/index",
               "id": "smart-contracts/index",
               "title": "Yield Farming",
-              "description": "Since the introduction of Ethereum in 2015,",
+              "description": "🚜 Yield Farming",
               "source": "@site/docs/develop/smart-contracts/index.md",
               "sourceDirName": "smart-contracts",
               "slug": "/smart-contracts/",
@@ -642,15 +642,15 @@
                 "permalink": "/develop/"
               },
               "next": {
-                "title": "List of EVM Extensions",
+                "title": "How to Use Farms",
                 "permalink": "/develop/smart-contracts/list-evm-extensions"
               }
             },
             {
               "unversionedId": "smart-contracts/list-evm-extensions",
               "id": "smart-contracts/list-evm-extensions",
-              "title": "List of EVM Extensions",
-              "description": "Available Extensions",
+              "title": "How to Use Farms",
+              "description": "Yield Farming on Flamez is easy!",
               "source": "@site/docs/develop/smart-contracts/list-evm-extensions.md",
               "sourceDirName": "smart-contracts",
               "slug": "/smart-contracts/list-evm-extensions",
@@ -669,8 +669,8 @@
                 "permalink": "/develop/smart-contracts/"
               },
               "next": {
-                "title": "Pools",
-                "permalink": "/develop/testnet/"
+                "title": "How to Use Farms with BbcScan",
+                "permalink": "/develop/smart-contracts/howto"
               }
             },
             {
@@ -717,31 +717,7 @@
                 "permalink": "/develop/testnet/auditing"
               },
               "next": {
-                "title": "Pool FAQ & Troubleshooting",
-                "permalink": "/develop/testnet/faq"
-              }
-            },
-            {
-              "unversionedId": "testnet/faq",
-              "id": "testnet/faq",
-              "title": "Pool FAQ & Troubleshooting",
-              "description": "",
-              "source": "@site/docs/develop/testnet/faq.md",
-              "sourceDirName": "testnet",
-              "slug": "/testnet/faq",
-              "permalink": "/develop/testnet/faq",
-              "draft": false,
-              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/testnet/faq.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Auto AMPLE Pool",
-                "permalink": "/develop/testnet/bbchow"
-              },
-              "next": {
-                "title": "Tools",
+                "title": "Lottery",
                 "permalink": "/develop/tools/"
               }
             },
@@ -761,8 +737,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "List of EVM Extensions",
-                "permalink": "/develop/smart-contracts/list-evm-extensions"
+                "title": "How to Use Farms with BbcScan",
+                "permalink": "/develop/smart-contracts/howto"
               },
               "next": {
                 "title": "How to Stake in Pools",
@@ -772,8 +748,8 @@
             {
               "unversionedId": "tools/index",
               "id": "tools/index",
-              "title": "Tools",
-              "description": "Tools play a crucial role in blockchain development as they help streamline the development process and make it easier",
+              "title": "Lottery",
+              "description": "Playing the Flamez Lottery gives you a chance to win huge FLAMEZ prizes! It's easy, fair, and you can enter as often as you like as long as you have the FLAMEZ to buy a ticket.",
               "source": "@site/docs/develop/tools/index.md",
               "sourceDirName": "tools",
               "slug": "/tools/",
@@ -785,19 +761,19 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Pool FAQ & Troubleshooting",
-                "permalink": "/develop/testnet/faq"
+                "title": "Auto AMPLE Pool",
+                "permalink": "/develop/testnet/bbchow"
               },
               "next": {
-                "title": "Tools and IDE Plugins",
+                "title": "How to Play Lottery",
                 "permalink": "/develop/tools/tools-plugins"
               }
             },
             {
               "unversionedId": "tools/tools-plugins",
               "id": "tools/tools-plugins",
-              "title": "Tools and IDE Plugins",
-              "description": "Smart Contract Development Tools",
+              "title": "How to Play Lottery",
+              "description": "Flamez's Lottery is not only a good way to make stacks of FLAMEZ, it's also loads of fun! This guide will walk you through getting involved in the Lottery.",
               "source": "@site/docs/develop/tools/tools-plugins.md",
               "sourceDirName": "tools",
               "slug": "/tools/tools-plugins",
@@ -806,17 +782,17 @@
               "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/tools-plugins.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tools",
+                "title": "Lottery",
                 "permalink": "/develop/tools/"
               },
               "next": {
-                "title": "API",
+                "title": "Votting",
                 "permalink": "/develop/api/"
               }
             }
@@ -837,6 +813,10 @@
                   {
                     "type": "doc",
                     "id": "smart-contracts/list-evm-extensions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "smart-contracts/howto"
                   }
                 ],
                 "link": {
@@ -857,10 +837,6 @@
                   {
                     "type": "doc",
                     "id": "testnet/bbchow"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "testnet/faq"
                   }
                 ],
                 "link": {
@@ -885,20 +861,9 @@
                 }
               },
               {
-                "type": "category",
+                "type": "doc",
                 "label": " Voting",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "api/cosmos-grpc"
-                  }
-                ],
-                "link": {
-                  "type": "doc",
-                  "id": "api/index"
-                }
+                "id": "api/index"
               },
               {
                 "type": "doc",

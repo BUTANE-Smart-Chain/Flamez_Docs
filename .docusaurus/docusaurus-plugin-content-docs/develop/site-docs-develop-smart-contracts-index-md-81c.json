@@ -2,7 +2,7 @@
   "unversionedId": "smart-contracts/index",
   "id": "smart-contracts/index",
   "title": "Yield Farming",
-  "description": "Since the introduction of Ethereum in 2015,",
+  "description": "🚜 Yield Farming",
   "source": "@site/docs/develop/smart-contracts/index.md",
   "sourceDirName": "smart-contracts",
   "slug": "/smart-contracts/",
@@ -18,7 +18,7 @@
     "permalink": "/develop/"
   },
   "next": {
-    "title": "List of EVM Extensions",
+    "title": "How to Use Farms",
     "permalink": "/develop/smart-contracts/list-evm-extensions"
   }
 }

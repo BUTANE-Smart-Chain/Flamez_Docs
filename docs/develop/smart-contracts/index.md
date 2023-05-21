@@ -1,99 +1,31 @@
 # Yield Farming 
 
-Since the introduction of Ethereum in 2015,
-the ability to control digital assets through [smart contracts](https://ethereum.org/en/smart-contracts/)
-has attracted a large community of developers
-to build decentralized applications on the Ethereum Virtual Machine (EVM).
-This community is continuously creating extensive tooling and introducing standards,
-which are further increasing the adoption rate of EVM-compatible technology.
+## 🚜 Yield Farming
 
-Whether you are building new use cases on Butane
-or porting an existing dApp from another EVM-based chain (e.g. Ethereum),
-you can easily build and deploy EVM smart contracts on Butane to implement the core business logic of your dApp.
-Butane is fully compatible with the EVM,
-so it allows you to use the same tools (Solidity, Remix, Oracles, etc.)
-and APIs (i.e. Ethereum JSON-RPC) that are available on the EVM.
+Yield Farms allow users to earn FLAMEZ while supporting Flamez by staking LP Tokens.
 
-Leveraging the interoperability of Cosmos chains,
-Butane enables you to build scalable cross-chain applications within a familiar EVM environment.
-Learn about the essential components when building and deploying EVM smart contracts on Butane below.
+Check out our How to Use Farms guide to get started with farming.
 
-## Build with Solidity
+Learn how to find Farm smart contracts
 
-You can develop EVM smart contracts on Butane using [Solidity](https://github.com/ethereum/solidity).
-Solidity is also used to build smart contracts on Ethereum.
-So if you have deployed smart contracts on Ethereum (or any other EVM-compatible chain)
-you can use the same contracts on Butane.
+Yield farming can give better rewards than Pools, but it comes with a risk of Impermanent Loss. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
 
-Since it is the most widely used smart contract programming language in Blockchain,
-Solidity comes with well-documented and rich language support.
-Head over to our list of Tools and IDE Plugins to help you get started.
 
-### EVM Extensions
+## Reward calculations
 
-EVM Extensions are precompiled contracts that are built into the Ethereum Virtual Machine (EVM).
-Each offers specific functionality, that can be used by other smart contracts.
-Generally, they are used to perform operations that are either not possible
-or would be too expensive to perform with a regular smart contract
-implementation, such as hashing, elliptic curve cryptography, and modular exponentiation.
+Yield Farm APR calculation includes both the rewards earned through providing liquidity and rewards earned staking LP Tokens in the Farm.
 
-By adding custom EVM extensions to Ethereum's basic feature set,
-Butane allows developers to use previously unavailable functionality in smart contracts, like staking and governance operations.
-This will allow more complex smart contracts to be built on Butane and further improves the interoperability between Cosmos and Ethereum.
-It also is a key feature to achieve Butane' vision of being the definitive dApp
-chain, where any dApp can be deployed once and users can interact with
-a wide range of different blockchains natively.
+Previously, rewards earned by LP Token-holders generated from trading fees were not included in Farm APR calculations. APR calculations now include these rewards, and better reflect the expected APR for Farm pairs.
 
-To enable the described functionalities, Butane introduces so-called *stateful* precompiled smart contracts,
-which can perform a state transition,
-as opposed to those offered by the standard Go-Ethereum implementation,
-which can only read state information.
-This is necessary because an operation like e.g. staking tokens
-will ultimately change the chain state.
+## Below is a basic explanation of how APR is calculated.
 
-View a list of available evm extensions [here](./list-evm-extensions.md).
 
-### Oracles
+- Liquidity: $387.42M
+- Volume 24H: $96.97M
+- Volume 7D: 709.73M
 
-Blockchain oracles provide a way for smart contracts to access external information,
-such as price feeds from financial exchanges or carbon emission measurements.
-They serve as bridges between blockchains and the outside world.
+To calculate the APR, first we take the 24hour volume, $96,970,000, and calculate the fee-share of LP-holders, 0.17% [$96,970,000*0.17/100 = $164,849].
 
-Head over to our [Oracles section](./tools/oracles) to find out
-how smart contracts can make use of oracles on Butane for real-life activities
-such as insurance, borrowing, lending, or gaming.
+Next, we estimate the yearly fees based on the 24h volume [$164,849*365 = $60,169,885].
 
-## Deploy with Ethereum JSON-RPC
-
-Butane is fully compatible with the [Ethereum JSON-RPC](./../../develop/api/ethereum-json-rpc/) APIs,
-allowing you to deploy and interact with smart contracts on Butane
-and connect with existing Ethereum-compatible web3 tooling.
-This gives you direct access to reading Ethereum-formatted transactions
-or sending them to the network which otherwise wouldn't be possible on a Cosmos chain, such as Butane.
-
-You can connect to the Butane [Testnet](./testnet)
-to deploy and test your smart contracts before moving to Mainnet.
-
-### Block Explorers
-
-You can use [block explorers](./tools/explorers)
-to view and debug interactions with your smart contracts deployed on Butane.
-Block explorers index blocks and their transactions
-so that you can search for real-time and historical information about the blockchain,
-including data related to blocks, transactions, addresses, and more.
-
-### Contract Verification
-
-Once deployed, smart contract data is deployed as non-human readable EVM bytecode.
-You can use [contract verification tools](./tools/contract-verifications)
-that publish and verify your original Solidity code
-to prove to users that they are interacting with the correct smart contract.
-
-## Butane Features
-
-The core protocol team is continuously building features
-that enhance the experience of smart contract developers on Butane.
-Head over to our Mainnet sections to learn more about these functionalities,
-e.g. how to earn [revenue](./mainnet#revenue) with your smart contract
-or [register your ERC-20](./mainnet#token-registration) token
-to be used cross-chain.
+Now we can calculate the fee APR with yearly fees divided by liquidity [($60,169,885/$387,420,000)*100 = 15.53%] With the fee APR, we can add the fee APR (15.53%) and the Farm staking APR (20.08%) to get the new total APR [15.53%+20.08% = 35.61%].

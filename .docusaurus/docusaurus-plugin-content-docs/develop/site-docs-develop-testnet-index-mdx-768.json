@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "List of EVM Extensions",
-    "permalink": "/develop/smart-contracts/list-evm-extensions"
+    "title": "How to Use Farms with BbcScan",
+    "permalink": "/develop/smart-contracts/howto"
   },
   "next": {
     "title": "How to Stake in Pools",

@@ -1,8 +1,8 @@
 {
   "unversionedId": "api/index",
   "id": "api/index",
-  "title": "API",
-  "description": "These following API's are recommended for development purposes. For maximun control and reliability it's recommended to run your own node.",
+  "title": "Votting",
+  "description": "How to Vote?",
   "source": "@site/docs/develop/api/index.mdx",
   "sourceDirName": "api",
   "slug": "/api/",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tools and IDE Plugins",
+    "title": "How to Play Lottery",
     "permalink": "/develop/tools/tools-plugins"
   },
   "next": {
-    "title": "Butane (Coming Soon) gRPC & REST",
-    "permalink": "/develop/api/cosmos-grpc"
+    "title": "NFT MarketPlace",
+    "permalink": "/develop/backend"
   }
 }

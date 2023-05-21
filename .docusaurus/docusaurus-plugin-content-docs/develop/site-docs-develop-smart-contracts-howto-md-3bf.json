@@ -1,0 +1,27 @@
+{
+  "unversionedId": "smart-contracts/howto",
+  "id": "smart-contracts/howto",
+  "title": "How to Use Farms with BbcScan",
+  "description": "Since it requires several steps, using Farms with Flamez can seem intimidating at first. This guide will walk you through using the Farms contract directly through BbcScan.",
+  "source": "@site/docs/develop/smart-contracts/howto.md",
+  "sourceDirName": "smart-contracts",
+  "slug": "/smart-contracts/howto",
+  "permalink": "/develop/smart-contracts/howto",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/smart-contracts/howto.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to Use Farms",
+    "permalink": "/develop/smart-contracts/list-evm-extensions"
+  },
+  "next": {
+    "title": "Pools",
+    "permalink": "/develop/testnet/"
+  }
+}

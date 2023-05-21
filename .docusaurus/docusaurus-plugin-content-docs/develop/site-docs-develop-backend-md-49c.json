@@ -2,7 +2,7 @@
   "unversionedId": "backend",
   "id": "backend",
   "title": "NFT MarketPlace",
-  "description": "It is important to note that not all DApps require a backend. For example, if the DApp is designed solely for",
+  "description": "Flamez Partnership with FireFlys NFT Marketplace",
   "source": "@site/docs/develop/backend.md",
   "sourceDirName": ".",
   "slug": "/backend",
@@ -14,7 +14,7 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Butane (Coming Soon) gRPC & REST",
-    "permalink": "/develop/api/cosmos-grpc"
+    "title": "Votting",
+    "permalink": "/develop/api/"
   }
 }

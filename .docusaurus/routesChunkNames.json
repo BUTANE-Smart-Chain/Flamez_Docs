@@ -55,7 +55,7 @@
       "plugin": "plugin---search-50-c-95f"
     }
   },
-  "/develop-96f": {
+  "/develop-bd7": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---develop-165-cc7"
@@ -70,10 +70,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---develop-apidec-ed2"
   },
-  "/develop/api/cosmos-grpc-954": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---develop-api-cosmos-grpcef-6-2f7"
-  },
   "/develop/backend-84b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---develop-backend-49-c-6c5"
@@ -81,6 +77,10 @@
   "/develop/smart-contracts-296": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---develop-smart-contracts-81-c-f62"
+  },
+  "/develop/smart-contracts/howto-cc8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---develop-smart-contracts-howto-3-bf-dc1"
   },
   "/develop/smart-contracts/list-evm-extensions-1d5": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -97,10 +97,6 @@
   "/develop/testnet/bbchow-826": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---develop-testnet-bbchow-5-bb-dcb"
-  },
-  "/develop/testnet/faq-a83": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---develop-testnet-faq-6-fd-9cc"
   },
   "/develop/tools-5dc": {
     "__comp": "__comp---theme-doc-item-178-a40",
