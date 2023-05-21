@@ -47,22 +47,17 @@
                   {
                     "type": "link",
                     "label": "Twitter",
-                    "href": "https://twitter.com/Butane_Network"
+                    "href": "https://twitter.com/Flamez_io"
                   },
                   {
                     "type": "link",
                     "label": "Telegram",
-                    "href": "https://t.me/butanechain"
+                    "href": "https://t.me/flamezbbc"
                   },
                   {
                     "type": "link",
                     "label": "Discord",
-                    "href": "https://discord.gg/zk4t92b9MX"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Reddit",
-                    "href": "https://www.reddit.com/r/ButaneNetwork/"
+                    "href": "https://discord.gg/e9NCkPA2DV"
                   }
                 ],
                 "collapsed": true,
@@ -75,17 +70,17 @@
                   {
                     "type": "link",
                     "label": "Website",
-                    "href": "https://butane.tech/"
+                    "href": "https://flamez.io/"
                   },
                   {
                     "type": "link",
                     "label": "DAO",
-                    "href": "https://commonwealth.im/butane"
+                    "href": "https://snapshot.org/#/flamez.eth"
                   },
                   {
                     "type": "link",
-                    "label": "Swap",
-                    "href": "https://flamez.io/"
+                    "label": "NFT Marketplace",
+                    "href": "https://fireflys.art/"
                   }
                 ],
                 "collapsed": true,
@@ -169,7 +164,7 @@
               "unversionedId": "index",
               "id": "index",
               "title": "✨ Introducing",
-              "description": "Welcome to the go-to portal for in-depth information about the Butane Network ($BBC) platform and ecosystem and how to interact with them!",
+              "description": "Welcome to the go-to portal for in-depth information about the Flamez $AME platform and ecosystem and how to interact with them!",
               "source": "@site/docs/use/index.mdx",
               "sourceDirName": ".",
               "slug": "/",
@@ -219,7 +214,7 @@
               "unversionedId": "tokenomics/index",
               "id": "tokenomics/index",
               "title": "Overview of tokenomics",
-              "description": "$BBC and $GAS (dao token)",
+              "description": "Flamez Tokenomics",
               "source": "@site/docs/use/tokenomics/index.mdx",
               "sourceDirName": "tokenomics",
               "slug": "/tokenomics",
@@ -470,22 +465,17 @@
                   {
                     "type": "link",
                     "label": "Twitter",
-                    "href": "https://twitter.com/Butane_Network"
+                    "href": "https://twitter.com/Flamez_io"
                   },
                   {
                     "type": "link",
                     "label": "Telegram",
-                    "href": "https://t.me/butanechain"
+                    "href": "https://t.me/flamezbbc"
                   },
                   {
                     "type": "link",
                     "label": "Discord",
-                    "href": "https://discord.gg/zk4t92b9MX"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Reddit",
-                    "href": "https://www.reddit.com/r/ButaneNetwork/"
+                    "href": "https://discord.gg/e9NCkPA2DV"
                   }
                 ],
                 "collapsed": true,
@@ -498,17 +488,17 @@
                   {
                     "type": "link",
                     "label": "Website",
-                    "href": "https://butane.tech/"
+                    "href": "https://flamez.io/"
                   },
                   {
                     "type": "link",
                     "label": "DAO",
-                    "href": "https://commonwealth.im/butane"
+                    "href": "https://snapshot.org/#/flamez.eth"
                   },
                   {
                     "type": "link",
-                    "label": "Swap",
-                    "href": "https://flamez.io/"
+                    "label": "NFT Marketplace",
+                    "href": "https://fireflys.art/"
                   }
                 ],
                 "collapsed": true,
@@ -1275,22 +1265,17 @@
                   {
                     "type": "link",
                     "label": "Twitter",
-                    "href": "https://twitter.com/Butane_Network"
+                    "href": "https://twitter.com/Flamez_io"
                   },
                   {
                     "type": "link",
                     "label": "Telegram",
-                    "href": "https://t.me/butanechain"
+                    "href": "https://t.me/flamezbbc"
                   },
                   {
                     "type": "link",
                     "label": "Discord",
-                    "href": "https://discord.gg/zk4t92b9MX"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Reddit",
-                    "href": "https://www.reddit.com/r/ButaneNetwork/"
+                    "href": "https://discord.gg/e9NCkPA2DV"
                   }
                 ],
                 "collapsed": true,
@@ -1303,17 +1288,17 @@
                   {
                     "type": "link",
                     "label": "Website",
-                    "href": "https://butane.tech/"
+                    "href": "https://flamez.io/"
                   },
                   {
                     "type": "link",
                     "label": "DAO",
-                    "href": "https://commonwealth.im/butane"
+                    "href": "https://snapshot.org/#/flamez.eth"
                   },
                   {
                     "type": "link",
-                    "label": "Swap",
-                    "href": "https://flamez.io/"
+                    "label": "NFT Marketplace",
+                    "href": "https://fireflys.art/"
                   }
                 ],
                 "collapsed": true,
@@ -1990,22 +1975,17 @@
                   {
                     "type": "link",
                     "label": "Twitter",
-                    "href": "https://twitter.com/Butane_Network"
+                    "href": "https://twitter.com/Flamez_io"
                   },
                   {
                     "type": "link",
                     "label": "Telegram",
-                    "href": "https://t.me/butanechain"
+                    "href": "https://t.me/flamezbbc"
                   },
                   {
                     "type": "link",
                     "label": "Discord",
-                    "href": "https://discord.gg/zk4t92b9MX"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Reddit",
-                    "href": "https://www.reddit.com/r/ButaneNetwork/"
+                    "href": "https://discord.gg/e9NCkPA2DV"
                   }
                 ],
                 "collapsed": true,
@@ -2018,17 +1998,17 @@
                   {
                     "type": "link",
                     "label": "Website",
-                    "href": "https://butane.tech/"
+                    "href": "https://flamez.io/"
                   },
                   {
                     "type": "link",
                     "label": "DAO",
-                    "href": "https://commonwealth.im/butane"
+                    "href": "https://snapshot.org/#/flamez.eth"
                   },
                   {
                     "type": "link",
-                    "label": "Swap",
-                    "href": "https://flamez.io/"
+                    "label": "NFT Marketplace",
+                    "href": "https://fireflys.art/"
                   }
                 ],
                 "collapsed": true,
@@ -2059,81 +2039,10 @@
           "contentPathLocalized": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\i18n\\en\\docusaurus-plugin-content-docs-protocol\\current",
           "docs": [
             {
-              "unversionedId": "bugs",
-              "id": "bugs",
-              "title": "🐛 Bugs",
-              "description": "My Image",
-              "source": "@site/docs/protocol/bugs.md",
-              "sourceDirName": ".",
-              "slug": "/bugs",
-              "permalink": "/protocol/bugs",
-              "draft": false,
-              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/bugs.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "theblock",
-                "permalink": "/protocol/smartcontract-aptos/theblock"
-              },
-              "next": {
-                "title": "Security Overview",
-                "permalink": "/protocol/security/"
-              }
-            },
-            {
-              "unversionedId": "error",
-              "id": "error",
-              "title": "error",
-              "description": "",
-              "source": "@site/docs/protocol/error.md",
-              "sourceDirName": ".",
-              "slug": "/error",
-              "permalink": "/protocol/error",
-              "draft": false,
-              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/error.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Simple Arrangement for Funding Upload (SAFU)",
-                "permalink": "/protocol/security/safu"
-              },
-              "next": {
-                "title": "Frequently Asked Questions",
-                "permalink": "/protocol/faq"
-              }
-            },
-            {
-              "unversionedId": "faq",
-              "id": "faq",
-              "title": "Frequently Asked Questions",
-              "description": "Concepts",
-              "source": "@site/docs/protocol/faq.md",
-              "sourceDirName": ".",
-              "slug": "/faq",
-              "permalink": "/protocol/faq",
-              "draft": false,
-              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/faq.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "error",
-                "permalink": "/protocol/error"
-              }
-            },
-            {
               "unversionedId": "index",
               "id": "index",
               "title": "Smart Contracts",
-              "description": "Butane is a scalable Delgated Proof-of-Stake blockchain that is fully compatible and",
+              "description": "Flamez Smart Contracts",
               "source": "@site/docs/protocol/index.md",
               "sourceDirName": ".",
               "slug": "/",
@@ -2146,140 +2055,7 @@
               "frontMatter": {
                 "sidebar_position": 0
               },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Aptos Smart contracts",
-                "permalink": "/protocol/smartcontract-aptos/"
-              }
-            },
-            {
-              "unversionedId": "security/audits",
-              "id": "security/audits",
-              "title": "Audits",
-              "description": "Butane is connecting two major worlds in the crypto universe by enabling",
-              "source": "@site/docs/protocol/security/audits.md",
-              "sourceDirName": "security",
-              "slug": "/security/audits",
-              "permalink": "/protocol/security/audits",
-              "draft": false,
-              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/security/audits.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Security Overview",
-                "permalink": "/protocol/security/"
-              },
-              "next": {
-                "title": "Simple Arrangement for Funding Upload (SAFU)",
-                "permalink": "/protocol/security/safu"
-              }
-            },
-            {
-              "unversionedId": "security/index",
-              "id": "security/index",
-              "title": "Security Overview",
-              "description": "The Security Policy on Butane",
-              "source": "@site/docs/protocol/security/index.md",
-              "sourceDirName": "security",
-              "slug": "/security/",
-              "permalink": "/protocol/security/",
-              "draft": false,
-              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/security/index.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "🐛 Bugs",
-                "permalink": "/protocol/bugs"
-              },
-              "next": {
-                "title": "Audits",
-                "permalink": "/protocol/security/audits"
-              }
-            },
-            {
-              "unversionedId": "security/safu",
-              "id": "security/safu",
-              "title": "Simple Arrangement for Funding Upload (SAFU)",
-              "description": "The Simple Arrangement for Funding Upload (the \"SAFU\")",
-              "source": "@site/docs/protocol/security/safu.md",
-              "sourceDirName": "security",
-              "slug": "/security/safu",
-              "permalink": "/protocol/security/safu",
-              "draft": false,
-              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/security/safu.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Audits",
-                "permalink": "/protocol/security/audits"
-              },
-              "next": {
-                "title": "error",
-                "permalink": "/protocol/error"
-              }
-            },
-            {
-              "unversionedId": "smartcontract-aptos/index",
-              "id": "smartcontract-aptos/index",
-              "title": "Aptos Smart contracts",
-              "description": "",
-              "source": "@site/docs/protocol/smartcontract-aptos/index.mdx",
-              "sourceDirName": "smartcontract-aptos",
-              "slug": "/smartcontract-aptos/",
-              "permalink": "/protocol/smartcontract-aptos/",
-              "draft": false,
-              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/smartcontract-aptos/index.mdx",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Smart Contracts",
-                "permalink": "/protocol/"
-              },
-              "next": {
-                "title": "theblock",
-                "permalink": "/protocol/smartcontract-aptos/theblock"
-              }
-            },
-            {
-              "unversionedId": "smartcontract-aptos/theblock",
-              "id": "smartcontract-aptos/theblock",
-              "title": "theblock",
-              "description": "",
-              "source": "@site/docs/protocol/smartcontract-aptos/theblock.md",
-              "sourceDirName": "smartcontract-aptos",
-              "slug": "/smartcontract-aptos/theblock",
-              "permalink": "/protocol/smartcontract-aptos/theblock",
-              "draft": false,
-              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/smartcontract-aptos/theblock.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Aptos Smart contracts",
-                "permalink": "/protocol/smartcontract-aptos/"
-              },
-              "next": {
-                "title": "🐛 Bugs",
-                "permalink": "/protocol/bugs"
-              }
+              "sidebar": "tutorialSidebar"
             }
           ],
           "drafts": [],
@@ -2291,75 +2067,22 @@
               },
               {
                 "type": "category",
-                "label": " ⚙️ Smart Contracts (Aptos)",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "smartcontract-aptos/theblock"
-                  }
-                ],
-                "link": {
-                  "type": "doc",
-                  "id": "smartcontract-aptos/index"
-                }
-              },
-              {
-                "type": "doc",
-                "id": "bugs"
-              },
-              {
-                "type": "category",
-                "label": " 🔐 Security",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "security/audits"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "security/safu"
-                  }
-                ],
-                "link": {
-                  "type": "doc",
-                  "id": "security/index"
-                }
-              },
-              {
-                "type": "doc",
-                "id": "error"
-              },
-              {
-                "type": "doc",
-                "id": "faq"
-              },
-              {
-                "type": "category",
                 "label": "Connect with us",
                 "items": [
                   {
                     "type": "link",
                     "label": "Twitter",
-                    "href": "https://twitter.com/Butane_Network"
+                    "href": "https://twitter.com/Flamez_io"
                   },
                   {
                     "type": "link",
                     "label": "Telegram",
-                    "href": "https://t.me/butanechain"
+                    "href": "https://t.me/flamezbbc"
                   },
                   {
                     "type": "link",
                     "label": "Discord",
-                    "href": "https://discord.gg/zk4t92b9MX"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Reddit",
-                    "href": "https://www.reddit.com/r/ButaneNetwork/"
+                    "href": "https://discord.gg/e9NCkPA2DV"
                   }
                 ],
                 "collapsed": true,
@@ -2372,17 +2095,17 @@
                   {
                     "type": "link",
                     "label": "Website",
-                    "href": "https://butane.tech/"
+                    "href": "https://flamez.io/"
                   },
                   {
                     "type": "link",
                     "label": "DAO",
-                    "href": "https://commonwealth.im/butane"
+                    "href": "https://snapshot.org/#/flamez.eth"
                   },
                   {
                     "type": "link",
-                    "label": "Swap",
-                    "href": "https://flamez.io/"
+                    "label": "NFT Marketplace",
+                    "href": "https://fireflys.art/"
                   }
                 ],
                 "collapsed": true,

@@ -165,7 +165,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-92-d-b06"
   },
-  "/protocol-cc1": {
+  "/protocol-de6": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---protocol-851-eea"
@@ -175,38 +175,6 @@
   "/protocol-966": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---protocola-21-482"
-  },
-  "/protocol/bugs-aea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---protocol-bugs-0-bb-5e0"
-  },
-  "/protocol/error-235": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---protocol-errora-92-3eb"
-  },
-  "/protocol/faq-06f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---protocol-faqdbd-351"
-  },
-  "/protocol/security-4ed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---protocol-security-3-cc-c2c"
-  },
-  "/protocol/security/audits-534": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---protocol-security-auditsa-27-153"
-  },
-  "/protocol/security/safu-7bf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---protocol-security-safuaff-2b4"
-  },
-  "/protocol/smartcontract-aptos-050": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---protocol-smartcontract-aptosf-42-8a6"
-  },
-  "/protocol/smartcontract-aptos/theblock-795": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---protocol-smartcontract-aptos-theblocka-58-53c"
   },
   "/use-d0f": {
     "__comp": "__comp---theme-doc-page-1-be-9be",

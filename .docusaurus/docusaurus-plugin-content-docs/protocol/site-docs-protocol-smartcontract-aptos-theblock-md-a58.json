@@ -18,7 +18,7 @@
     "permalink": "/protocol/smartcontract-aptos/"
   },
   "next": {
-    "title": "🐛 Bugs",
-    "permalink": "/protocol/bugs"
+    "title": "Security Overview",
+    "permalink": "/protocol/security/"
   }
 }

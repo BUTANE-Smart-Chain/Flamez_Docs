@@ -17,81 +17,22 @@
       },
       {
         "type": "category",
-        "label": " ⚙️ Smart Contracts (Aptos)",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "theblock",
-            "href": "/protocol/smartcontract-aptos/theblock",
-            "docId": "smartcontract-aptos/theblock"
-          }
-        ],
-        "href": "/protocol/smartcontract-aptos/"
-      },
-      {
-        "type": "link",
-        "label": "🐛 Bugs",
-        "href": "/protocol/bugs",
-        "docId": "bugs"
-      },
-      {
-        "type": "category",
-        "label": " 🔐 Security",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Audits",
-            "href": "/protocol/security/audits",
-            "docId": "security/audits"
-          },
-          {
-            "type": "link",
-            "label": "Simple Arrangement for Funding Upload (SAFU)",
-            "href": "/protocol/security/safu",
-            "docId": "security/safu"
-          }
-        ],
-        "href": "/protocol/security/"
-      },
-      {
-        "type": "link",
-        "label": "error",
-        "href": "/protocol/error",
-        "docId": "error"
-      },
-      {
-        "type": "link",
-        "label": "Frequently Asked Questions",
-        "href": "/protocol/faq",
-        "docId": "faq"
-      },
-      {
-        "type": "category",
         "label": "Connect with us",
         "items": [
           {
             "type": "link",
             "label": "Twitter",
-            "href": "https://twitter.com/Butane_Network"
+            "href": "https://twitter.com/Flamez_io"
           },
           {
             "type": "link",
             "label": "Telegram",
-            "href": "https://t.me/butanechain"
+            "href": "https://t.me/flamezbbc"
           },
           {
             "type": "link",
             "label": "Discord",
-            "href": "https://discord.gg/zk4t92b9MX"
-          },
-          {
-            "type": "link",
-            "label": "Reddit",
-            "href": "https://www.reddit.com/r/ButaneNetwork/"
+            "href": "https://discord.gg/e9NCkPA2DV"
           }
         ],
         "collapsed": true,
@@ -104,17 +45,17 @@
           {
             "type": "link",
             "label": "Website",
-            "href": "https://butane.tech/"
+            "href": "https://flamez.io/"
           },
           {
             "type": "link",
             "label": "DAO",
-            "href": "https://commonwealth.im/butane"
+            "href": "https://snapshot.org/#/flamez.eth"
           },
           {
             "type": "link",
-            "label": "Swap",
-            "href": "https://flamez.io/"
+            "label": "NFT Marketplace",
+            "href": "https://fireflys.art/"
           }
         ],
         "collapsed": true,
@@ -123,58 +64,10 @@
     ]
   },
   "docs": {
-    "bugs": {
-      "id": "bugs",
-      "title": "🐛 Bugs",
-      "description": "My Image",
-      "sidebar": "tutorialSidebar"
-    },
-    "error": {
-      "id": "error",
-      "title": "error",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "faq": {
-      "id": "faq",
-      "title": "Frequently Asked Questions",
-      "description": "Concepts",
-      "sidebar": "tutorialSidebar"
-    },
     "index": {
       "id": "index",
       "title": "Smart Contracts",
-      "description": "Butane is a scalable Delgated Proof-of-Stake blockchain that is fully compatible and",
-      "sidebar": "tutorialSidebar"
-    },
-    "security/audits": {
-      "id": "security/audits",
-      "title": "Audits",
-      "description": "Butane is connecting two major worlds in the crypto universe by enabling",
-      "sidebar": "tutorialSidebar"
-    },
-    "security/index": {
-      "id": "security/index",
-      "title": "Security Overview",
-      "description": "The Security Policy on Butane",
-      "sidebar": "tutorialSidebar"
-    },
-    "security/safu": {
-      "id": "security/safu",
-      "title": "Simple Arrangement for Funding Upload (SAFU)",
-      "description": "The Simple Arrangement for Funding Upload (the \"SAFU\")",
-      "sidebar": "tutorialSidebar"
-    },
-    "smartcontract-aptos/index": {
-      "id": "smartcontract-aptos/index",
-      "title": "Aptos Smart contracts",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "smartcontract-aptos/theblock": {
-      "id": "smartcontract-aptos/theblock",
-      "title": "theblock",
-      "description": "",
+      "description": "Flamez Smart Contracts",
       "sidebar": "tutorialSidebar"
     }
   }

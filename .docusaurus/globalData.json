@@ -9,75 +9,6 @@
     }
   },
   "docusaurus-plugin-content-docs": {
-    "protocol": {
-      "path": "/protocol",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/protocol",
-          "mainDocId": "index",
-          "docs": [
-            {
-              "id": "bugs",
-              "path": "/protocol/bugs",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "error",
-              "path": "/protocol/error",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "faq",
-              "path": "/protocol/faq",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "index",
-              "path": "/protocol/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "security/audits",
-              "path": "/protocol/security/audits",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "security/index",
-              "path": "/protocol/security/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "security/safu",
-              "path": "/protocol/security/safu",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "smartcontract-aptos/index",
-              "path": "/protocol/smartcontract-aptos/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "smartcontract-aptos/theblock",
-              "path": "/protocol/smartcontract-aptos/theblock",
-              "sidebar": "tutorialSidebar"
-            }
-          ],
-          "draftIds": [],
-          "sidebars": {
-            "tutorialSidebar": {
-              "link": {
-                "path": "/protocol/",
-                "label": "index"
-              }
-            }
-          }
-        }
-      ],
-      "breadcrumbs": true
-    },
     "default": {
       "path": "/docs",
       "versions": [
@@ -441,6 +372,35 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/validate/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "protocol": {
+      "path": "/protocol",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/protocol",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "index",
+              "path": "/protocol/",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/protocol/",
                 "label": "index"
               }
             }

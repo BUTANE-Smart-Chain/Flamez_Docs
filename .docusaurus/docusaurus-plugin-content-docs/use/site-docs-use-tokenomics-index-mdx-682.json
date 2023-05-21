@@ -2,7 +2,7 @@
   "unversionedId": "tokenomics/index",
   "id": "tokenomics/index",
   "title": "Overview of tokenomics",
-  "description": "$BBC and $GAS (dao token)",
+  "description": "Flamez Tokenomics",
   "source": "@site/docs/use/tokenomics/index.mdx",
   "sourceDirName": "tokenomics",
   "slug": "/tokenomics",

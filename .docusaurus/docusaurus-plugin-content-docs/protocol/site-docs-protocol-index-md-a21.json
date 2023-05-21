@@ -2,7 +2,7 @@
   "unversionedId": "index",
   "id": "index",
   "title": "Smart Contracts",
-  "description": "Butane is a scalable Delgated Proof-of-Stake blockchain that is fully compatible and",
+  "description": "Flamez Smart Contracts",
   "source": "@site/docs/protocol/index.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -15,9 +15,5 @@
   "frontMatter": {
     "sidebar_position": 0
   },
-  "sidebar": "tutorialSidebar",
-  "next": {
-    "title": "Aptos Smart contracts",
-    "permalink": "/protocol/smartcontract-aptos/"
-  }
+  "sidebar": "tutorialSidebar"
 }

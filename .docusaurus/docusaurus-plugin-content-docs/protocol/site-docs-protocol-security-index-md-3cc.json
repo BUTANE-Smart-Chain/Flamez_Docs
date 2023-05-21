@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🐛 Bugs",
-    "permalink": "/protocol/bugs"
+    "title": "Smart Contracts",
+    "permalink": "/protocol/"
   },
   "next": {
     "title": "Audits",

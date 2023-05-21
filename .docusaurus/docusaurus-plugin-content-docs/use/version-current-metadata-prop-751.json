@@ -85,22 +85,17 @@
           {
             "type": "link",
             "label": "Twitter",
-            "href": "https://twitter.com/Butane_Network"
+            "href": "https://twitter.com/Flamez_io"
           },
           {
             "type": "link",
             "label": "Telegram",
-            "href": "https://t.me/butanechain"
+            "href": "https://t.me/flamezbbc"
           },
           {
             "type": "link",
             "label": "Discord",
-            "href": "https://discord.gg/zk4t92b9MX"
-          },
-          {
-            "type": "link",
-            "label": "Reddit",
-            "href": "https://www.reddit.com/r/ButaneNetwork/"
+            "href": "https://discord.gg/e9NCkPA2DV"
           }
         ],
         "collapsed": true,
@@ -113,17 +108,17 @@
           {
             "type": "link",
             "label": "Website",
-            "href": "https://butane.tech/"
+            "href": "https://flamez.io/"
           },
           {
             "type": "link",
             "label": "DAO",
-            "href": "https://commonwealth.im/butane"
+            "href": "https://snapshot.org/#/flamez.eth"
           },
           {
             "type": "link",
-            "label": "Swap",
-            "href": "https://flamez.io/"
+            "label": "NFT Marketplace",
+            "href": "https://fireflys.art/"
           }
         ],
         "collapsed": true,
@@ -147,7 +142,7 @@
     "index": {
       "id": "index",
       "title": "✨ Introducing",
-      "description": "Welcome to the go-to portal for in-depth information about the Butane Network ($BBC) platform and ecosystem and how to interact with them!",
+      "description": "Welcome to the go-to portal for in-depth information about the Flamez $AME platform and ecosystem and how to interact with them!",
       "sidebar": "tutorialSidebar"
     },
     "roadmap": {
@@ -159,7 +154,7 @@
     "tokenomics/index": {
       "id": "tokenomics/index",
       "title": "Overview of tokenomics",
-      "description": "$BBC and $GAS (dao token)",
+      "description": "Flamez Tokenomics",
       "sidebar": "tutorialSidebar"
     },
     "transfer-tokens/fees": {

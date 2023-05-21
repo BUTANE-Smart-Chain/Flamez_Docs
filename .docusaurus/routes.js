@@ -205,59 +205,11 @@ export default [
   },
   {
     path: '/protocol',
-    component: ComponentCreator('/protocol', 'cc1'),
+    component: ComponentCreator('/protocol', 'de6'),
     routes: [
       {
         path: '/protocol',
         component: ComponentCreator('/protocol', '966'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/protocol/bugs',
-        component: ComponentCreator('/protocol/bugs', 'aea'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/protocol/error',
-        component: ComponentCreator('/protocol/error', '235'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/protocol/faq',
-        component: ComponentCreator('/protocol/faq', '06f'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/protocol/security',
-        component: ComponentCreator('/protocol/security', '4ed'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/protocol/security/audits',
-        component: ComponentCreator('/protocol/security/audits', '534'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/protocol/security/safu',
-        component: ComponentCreator('/protocol/security/safu', '7bf'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/protocol/smartcontract-aptos',
-        component: ComponentCreator('/protocol/smartcontract-aptos', '050'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/protocol/smartcontract-aptos/theblock',
-        component: ComponentCreator('/protocol/smartcontract-aptos/theblock', '795'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
