@@ -1,0 +1,27 @@
+{
+  "unversionedId": "smart-contracts/list-evm-extensions",
+  "id": "smart-contracts/list-evm-extensions",
+  "title": "List of EVM Extensions",
+  "description": "Available Extensions",
+  "source": "@site/docs/develop/smart-contracts/list-evm-extensions.md",
+  "sourceDirName": "smart-contracts",
+  "slug": "/smart-contracts/list-evm-extensions",
+  "permalink": "/develop/smart-contracts/list-evm-extensions",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/smart-contracts/list-evm-extensions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Yield Farming",
+    "permalink": "/develop/smart-contracts/"
+  },
+  "next": {
+    "title": "Frontend",
+    "permalink": "/develop/frontend/"
+  }
+}

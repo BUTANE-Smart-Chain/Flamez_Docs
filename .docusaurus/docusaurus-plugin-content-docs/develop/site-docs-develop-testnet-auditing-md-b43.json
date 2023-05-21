@@ -1,0 +1,24 @@
+{
+  "unversionedId": "testnet/auditing",
+  "id": "testnet/auditing",
+  "title": "Security Audits",
+  "description": "Security audit is a comprehensive evaluation of the security and stability of a smart contract or decentralized",
+  "source": "@site/docs/develop/testnet/auditing.md",
+  "sourceDirName": "testnet",
+  "slug": "/testnet/auditing",
+  "permalink": "/develop/testnet/auditing",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/testnet/auditing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Testnet",
+    "permalink": "/develop/testnet/"
+  },
+  "next": {
+    "title": "💠 Mainnet",
+    "permalink": "/develop/mainnet"
+  }
+}

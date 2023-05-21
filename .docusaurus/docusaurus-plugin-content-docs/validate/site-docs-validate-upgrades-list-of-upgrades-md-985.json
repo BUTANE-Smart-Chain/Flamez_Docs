@@ -1,0 +1,27 @@
+{
+  "unversionedId": "upgrades/list-of-upgrades",
+  "id": "upgrades/list-of-upgrades",
+  "title": "List of Upgrades",
+  "description": "Check the details and requirements for each mainnet and testnet upgrade.",
+  "source": "@site/docs/validate/upgrades/list-of-upgrades.md",
+  "sourceDirName": "upgrades",
+  "slug": "/upgrades/list-of-upgrades",
+  "permalink": "/validate/upgrades/list-of-upgrades",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/upgrades/list-of-upgrades.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/validate/upgrades/"
+  },
+  "next": {
+    "title": "Hard Fork Upgrades",
+    "permalink": "/validate/upgrades/hard-fork-upgrades"
+  }
+}

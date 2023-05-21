@@ -1,0 +1,27 @@
+{
+  "unversionedId": "transfer-tokens/maker",
+  "id": "transfer-tokens/maker",
+  "title": "Market Maker Integration",
+  "description": "Market Maker Integration on Ethereum",
+  "source": "@site/docs/use/transfer-tokens/maker.md",
+  "sourceDirName": "transfer-tokens",
+  "slug": "/transfer-tokens/maker",
+  "permalink": "/use/transfer-tokens/maker",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/transfer-tokens/maker.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Liquidity Pools (LP)",
+    "permalink": "/use/transfer-tokens/pools"
+  },
+  "next": {
+    "title": "RoadMap",
+    "permalink": "/use/roadmap"
+  }
+}

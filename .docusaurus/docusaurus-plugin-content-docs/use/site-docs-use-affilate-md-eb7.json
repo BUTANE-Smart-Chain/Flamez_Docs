@@ -1,0 +1,27 @@
+{
+  "unversionedId": "affilate",
+  "id": "affilate",
+  "title": "Affilate Program",
+  "description": "Flamez's Affiliate Program is designed to reward those who continue to help expand the community and ignite our vision. The program will be available at the start to a select group of Flamez advocates, and the Flamez Team plans to roll it out to more users. As an affiliate, you'll be part of a network of like-minded individuals committed to building a stronger DeFi community.",
+  "source": "@site/docs/use/affilate.md",
+  "sourceDirName": ".",
+  "slug": "/affilate",
+  "permalink": "/use/affilate",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/affilate.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RoadMap",
+    "permalink": "/use/roadmap"
+  },
+  "next": {
+    "title": "Overview of tokenomics",
+    "permalink": "/use/tokenomics"
+  }
+}

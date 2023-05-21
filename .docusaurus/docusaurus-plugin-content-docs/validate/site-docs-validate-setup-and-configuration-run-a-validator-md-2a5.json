@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setup-and-configuration/run-a-validator",
+  "id": "setup-and-configuration/run-a-validator",
+  "title": "Run a Validator",
+  "description": "Learn how to run a validator node.",
+  "source": "@site/docs/validate/setup-and-configuration/run-a-validator.md",
+  "sourceDirName": "setup-and-configuration",
+  "slug": "/setup-and-configuration/run-a-validator",
+  "permalink": "/validate/setup-and-configuration/run-a-validator",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/setup-and-configuration/run-a-validator.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔥 Overview",
+    "permalink": "/validate/"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/validate/setup-and-configuration/configuration"
+  }
+}

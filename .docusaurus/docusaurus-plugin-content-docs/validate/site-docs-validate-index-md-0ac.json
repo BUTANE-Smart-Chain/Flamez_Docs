@@ -1,0 +1,23 @@
+{
+  "unversionedId": "index",
+  "id": "index",
+  "title": "🔥 Overview",
+  "description": "Validating on Butane",
+  "source": "@site/docs/validate/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/validate/",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Run a Validator",
+    "permalink": "/validate/setup-and-configuration/run-a-validator"
+  }
+}

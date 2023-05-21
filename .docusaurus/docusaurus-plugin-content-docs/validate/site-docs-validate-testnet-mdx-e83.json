@@ -1,0 +1,27 @@
+{
+  "unversionedId": "testnet",
+  "id": "testnet",
+  "title": "🆕 Testnet",
+  "description": "This document outlines the steps to join an existing testnet.",
+  "source": "@site/docs/validate/testnet.mdx",
+  "sourceDirName": ".",
+  "slug": "/testnet",
+  "permalink": "/validate/testnet",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/testnet.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rollback",
+    "permalink": "/validate/upgrades/rollback"
+  },
+  "next": {
+    "title": "🌐 Mainnet",
+    "permalink": "/validate/mainnet"
+  }
+}

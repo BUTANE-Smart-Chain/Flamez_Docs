@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/oracles",
+  "id": "tools/oracles",
+  "title": "Oracles",
+  "description": "Oracles are a crucial component of the decentralized web, enabling smart contracts to access off-chain data and interact",
+  "source": "@site/docs/develop/tools/oracles.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/oracles",
+  "permalink": "/develop/tools/oracles",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/oracles.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Block Explorers",
+    "permalink": "/develop/tools/explorers"
+  },
+  "next": {
+    "title": "Contract Verification",
+    "permalink": "/develop/tools/contract-verifications"
+  }
+}

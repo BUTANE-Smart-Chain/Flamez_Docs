@@ -1,0 +1,27 @@
+{
+  "unversionedId": "transfer-tokens/index",
+  "id": "transfer-tokens/index",
+  "title": "AMM/DEX",
+  "description": "Flamez is an Automated Market Maker (AMM), and the Exchange is at the heart of Flamez. Flamez is the leading AMM on the BBC Smart Chain, and as statistics tell, the most popular Decentralized Exchange (DEX) ever!",
+  "source": "@site/docs/use/transfer-tokens/index.md",
+  "sourceDirName": "transfer-tokens",
+  "slug": "/transfer-tokens/",
+  "permalink": "/use/transfer-tokens/",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/transfer-tokens/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "✨ Introducing",
+    "permalink": "/use/"
+  },
+  "next": {
+    "title": "Token Swaps",
+    "permalink": "/use/transfer-tokens/swap"
+  }
+}

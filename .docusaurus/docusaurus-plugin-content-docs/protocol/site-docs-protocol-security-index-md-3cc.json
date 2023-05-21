@@ -1,0 +1,27 @@
+{
+  "unversionedId": "security/index",
+  "id": "security/index",
+  "title": "Security Overview",
+  "description": "The Security Policy on Butane",
+  "source": "@site/docs/protocol/security/index.md",
+  "sourceDirName": "security",
+  "slug": "/security/",
+  "permalink": "/protocol/security/",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/security/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐛 Bugs",
+    "permalink": "/protocol/bugs"
+  },
+  "next": {
+    "title": "Audits",
+    "permalink": "/protocol/security/audits"
+  }
+}

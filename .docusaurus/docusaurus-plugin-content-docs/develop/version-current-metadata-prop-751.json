@@ -1,0 +1,358 @@
+{
+  "pluginId": "develop",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "🔥 Exchange",
+        "href": "/develop/",
+        "docId": "index"
+      },
+      {
+        "type": "category",
+        "label": "Yield Farming",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "List of EVM Extensions",
+            "href": "/develop/smart-contracts/list-evm-extensions",
+            "docId": "smart-contracts/list-evm-extensions"
+          }
+        ],
+        "href": "/develop/smart-contracts/"
+      },
+      {
+        "type": "link",
+        "label": " 💻 Frontend",
+        "href": "/develop/frontend/",
+        "docId": "frontend/index"
+      },
+      {
+        "type": "link",
+        "label": "💾 NFT MarketPlace",
+        "href": "/develop/backend",
+        "docId": "backend"
+      },
+      {
+        "type": "category",
+        "label": " ⚙️ Testnet",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Security Audits",
+            "href": "/develop/testnet/auditing",
+            "docId": "testnet/auditing"
+          }
+        ],
+        "href": "/develop/testnet/"
+      },
+      {
+        "type": "link",
+        "label": "💠 Mainnet",
+        "href": "/develop/mainnet",
+        "docId": "mainnet"
+      },
+      {
+        "type": "category",
+        "label": " 🛠️ Tools",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Block Explorers",
+            "href": "/develop/tools/explorers",
+            "docId": "tools/explorers"
+          },
+          {
+            "type": "link",
+            "label": "Oracles",
+            "href": "/develop/tools/oracles",
+            "docId": "tools/oracles"
+          },
+          {
+            "type": "link",
+            "label": "Contract Verification",
+            "href": "/develop/tools/contract-verifications",
+            "docId": "tools/contract-verifications"
+          },
+          {
+            "type": "link",
+            "label": "Tools and IDE Plugins",
+            "href": "/develop/tools/tools-plugins",
+            "docId": "tools/tools-plugins"
+          },
+          {
+            "type": "link",
+            "label": "Indexers",
+            "href": "/develop/tools/indexers",
+            "docId": "tools/indexers"
+          },
+          {
+            "type": "link",
+            "label": "Butane Client Integrations",
+            "href": "/develop/tools/client-integrations",
+            "docId": "tools/client-integrations"
+          },
+          {
+            "type": "link",
+            "label": "Butane-Name-Service",
+            "href": "/develop/tools/butane-name-service",
+            "docId": "tools/butane-name-service"
+          }
+        ],
+        "href": "/develop/tools/"
+      },
+      {
+        "type": "category",
+        "label": " 🔥 Butane API",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Networks",
+            "href": "/develop/api/networks",
+            "docId": "api/networks"
+          },
+          {
+            "type": "category",
+            "label": "Ethereum JSON-RPC",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Methods",
+                "href": "/develop/api/ethereum-json-rpc/methods",
+                "docId": "api/ethereum-json-rpc/methods"
+              }
+            ],
+            "href": "/develop/api/ethereum-json-rpc/"
+          },
+          {
+            "type": "link",
+            "label": "Butane (Coming Soon) gRPC & REST",
+            "href": "/develop/api/cosmos-grpc",
+            "docId": "api/cosmos-grpc"
+          },
+          {
+            "type": "link",
+            "label": "Tendermint RPC",
+            "href": "/develop/api/tendermint-rpc",
+            "docId": "api/tendermint-rpc"
+          },
+          {
+            "type": "link",
+            "label": "Snapshots & Archive Nodes",
+            "href": "/develop/api/snapshots-archives",
+            "docId": "api/snapshots-archives"
+          }
+        ],
+        "href": "/develop/api/"
+      },
+      {
+        "type": "category",
+        "label": "Connect with us",
+        "items": [
+          {
+            "type": "link",
+            "label": "Twitter",
+            "href": "https://twitter.com/Butane_Network"
+          },
+          {
+            "type": "link",
+            "label": "Telegram",
+            "href": "https://t.me/butanechain"
+          },
+          {
+            "type": "link",
+            "label": "Discord",
+            "href": "https://discord.gg/zk4t92b9MX"
+          },
+          {
+            "type": "link",
+            "label": "Reddit",
+            "href": "https://www.reddit.com/r/ButaneNetwork/"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Ecosystem",
+        "items": [
+          {
+            "type": "link",
+            "label": "Website",
+            "href": "https://butane.tech/"
+          },
+          {
+            "type": "link",
+            "label": "DAO",
+            "href": "https://commonwealth.im/butane"
+          },
+          {
+            "type": "link",
+            "label": "Swap",
+            "href": "https://flamez.io/"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "api/cosmos-grpc": {
+      "id": "api/cosmos-grpc",
+      "title": "Butane (Coming Soon) gRPC & REST",
+      "description": "Butane gRPC",
+      "sidebar": "tutorialSidebar"
+    },
+    "api/ethereum-json-rpc/index": {
+      "id": "api/ethereum-json-rpc/index",
+      "title": "Ethereum JSON-RPC",
+      "description": "The JSON-PRC Server provides an API that allows you to connect to the Butane blockchain and interact with the EVM. This",
+      "sidebar": "tutorialSidebar"
+    },
+    "api/ethereum-json-rpc/methods": {
+      "id": "api/ethereum-json-rpc/methods",
+      "title": "Methods",
+      "description": "Find below a list of JSON-RPC methods supported on Butane, sorted by namespaces.",
+      "sidebar": "tutorialSidebar"
+    },
+    "api/index": {
+      "id": "api/index",
+      "title": "API",
+      "description": "These following API's are recommended for development purposes. For maximun control and reliability it's recommended to run your own node.",
+      "sidebar": "tutorialSidebar"
+    },
+    "api/networks": {
+      "id": "api/networks",
+      "title": "Networks",
+      "description": "Public",
+      "sidebar": "tutorialSidebar"
+    },
+    "api/snapshots-archives": {
+      "id": "api/snapshots-archives",
+      "title": "Snapshots & Archive Nodes",
+      "description": "Quickly sync your node with Butane using a snapshot or serve queries for prev versions using archive nodes",
+      "sidebar": "tutorialSidebar"
+    },
+    "api/tendermint-rpc": {
+      "id": "api/tendermint-rpc",
+      "title": "Tendermint RPC",
+      "description": "The Tendermint RPC allows you to query transactions, blocks, consensus state, broadcast transactions, etc.",
+      "sidebar": "tutorialSidebar"
+    },
+    "backend": {
+      "id": "backend",
+      "title": "💾 NFT MarketPlace",
+      "description": "It is important to note that not all DApps require a backend. For example, if the DApp is designed solely for",
+      "sidebar": "tutorialSidebar"
+    },
+    "frontend/index": {
+      "id": "frontend/index",
+      "title": "Frontend",
+      "description": "The importance of having a frontend for dapp development is significant because it allows users to interact with the",
+      "sidebar": "tutorialSidebar"
+    },
+    "index": {
+      "id": "index",
+      "title": "🔥 Exchange",
+      "description": "Following this documentation and our academy you can learn how to build a dApp on Butane and become part of the rich",
+      "sidebar": "tutorialSidebar"
+    },
+    "mainnet": {
+      "id": "mainnet",
+      "title": "💠 Mainnet",
+      "description": "Before real users begin to transact with actual funds on your dApp, it is important to take into account certain factors",
+      "sidebar": "tutorialSidebar"
+    },
+    "smart-contracts/index": {
+      "id": "smart-contracts/index",
+      "title": "Yield Farming",
+      "description": "Since the introduction of Ethereum in 2015,",
+      "sidebar": "tutorialSidebar"
+    },
+    "smart-contracts/list-evm-extensions": {
+      "id": "smart-contracts/list-evm-extensions",
+      "title": "List of EVM Extensions",
+      "description": "Available Extensions",
+      "sidebar": "tutorialSidebar"
+    },
+    "testnet/auditing": {
+      "id": "testnet/auditing",
+      "title": "Security Audits",
+      "description": "Security audit is a comprehensive evaluation of the security and stability of a smart contract or decentralized",
+      "sidebar": "tutorialSidebar"
+    },
+    "testnet/index": {
+      "id": "testnet/index",
+      "title": "Testnet",
+      "description": "Add Butane Testnet to Keplr.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/butane-name-service": {
+      "id": "tools/butane-name-service",
+      "title": "Butane-Name-Service",
+      "description": "BNS has similar goals to DNS, the Internet’s Domain Name Service,",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/client-integrations": {
+      "id": "tools/client-integrations",
+      "title": "Butane Client Integrations",
+      "description": "Client integration libraries play a crucial role in blockchain technology by making it easier for developers to interact",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/contract-verifications": {
+      "id": "tools/contract-verifications",
+      "title": "Contract Verification",
+      "description": "Contract verification refers to the process of auditing and verifying the code of smart contracts before they are deployed on the blockchain. This is an important step in ensuring that smart contracts function as intended and are free of vulnerabilities or security flaws.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/explorers": {
+      "id": "tools/explorers",
+      "title": "Block Explorers",
+      "description": "Blockchain explorers allow users to query the blockchain for data. Explorers are often compared to search engines for the blockchain. By using an explorer, users can search and track balances, transactions, contracts, and other broadcast data to the bbbcScan offers two types block explorers: an EVM explorer and a butane explorer. Each explorer queries data respective to their environment with the EVM explorers querying Ethereum-formatted data (blocks, transactions, accounts, smart contracts, etc) and the butane explorers querying butane-formatted data (butane and IBC transactions, blocks, accounts, module data, etc).",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/index": {
+      "id": "tools/index",
+      "title": "Tools",
+      "description": "Tools play a crucial role in blockchain development as they help streamline the development process and make it easier",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/indexers": {
+      "id": "tools/indexers",
+      "title": "Indexers",
+      "description": "A graph indexer allows developers to efficiently query the network for information about transactions, addresses, and",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/oracles": {
+      "id": "tools/oracles",
+      "title": "Oracles",
+      "description": "Oracles are a crucial component of the decentralized web, enabling smart contracts to access off-chain data and interact",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/tools-plugins": {
+      "id": "tools/tools-plugins",
+      "title": "Tools and IDE Plugins",
+      "description": "Smart Contract Development Tools",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

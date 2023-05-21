@@ -1,0 +1,27 @@
+{
+  "unversionedId": "security/validator-security-checklist",
+  "id": "security/validator-security-checklist",
+  "title": "Validator Security Checklist",
+  "description": "Find below a security checklist survey to go through the security measures of a validator.",
+  "source": "@site/docs/validate/security/validator-security-checklist.md",
+  "sourceDirName": "security",
+  "slug": "/security/validator-security-checklist",
+  "permalink": "/validate/security/validator-security-checklist",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/security/validator-security-checklist.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tendermint KMS",
+    "permalink": "/validate/security/tendermint-kms"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/validate/upgrades/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setup-and-configuration/disk-usage-configuration",
+  "id": "setup-and-configuration/disk-usage-configuration",
+  "title": "Disk Usage Optimization",
+  "description": "Customize the configuration settings to lower the disk requirements for your validator node.",
+  "source": "@site/docs/validate/setup-and-configuration/disk-usage-configuration.md",
+  "sourceDirName": "setup-and-configuration",
+  "slug": "/setup-and-configuration/disk-usage-configuration",
+  "permalink": "/validate/setup-and-configuration/disk-usage-configuration",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/setup-and-configuration/disk-usage-configuration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/validate/setup-and-configuration/configuration"
+  },
+  "next": {
+    "title": "State Sync",
+    "permalink": "/validate/setup-and-configuration/state-sync"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "stake",
+  "id": "stake",
+  "title": "🪄 Stake & Withdraw",
+  "description": "Stake, Delegate and Withdraw",
+  "source": "@site/docs/validate/stake.md",
+  "sourceDirName": ".",
+  "slug": "/stake",
+  "permalink": "/validate/stake",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/stake.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💨 Run an IBC Relayer",
+    "permalink": "/validate/relayers"
+  }
+}

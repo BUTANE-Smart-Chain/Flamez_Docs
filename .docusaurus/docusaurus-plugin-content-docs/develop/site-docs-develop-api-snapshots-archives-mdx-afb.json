@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api/snapshots-archives",
+  "id": "api/snapshots-archives",
+  "title": "Snapshots & Archive Nodes",
+  "description": "Quickly sync your node with Butane using a snapshot or serve queries for prev versions using archive nodes",
+  "source": "@site/docs/develop/api/snapshots-archives.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/snapshots-archives",
+  "permalink": "/develop/api/snapshots-archives",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/api/snapshots-archives.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tendermint RPC",
+    "permalink": "/develop/api/tendermint-rpc"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "testnet/index",
+  "id": "testnet/index",
+  "title": "Testnet",
+  "description": "Add Butane Testnet to Keplr.",
+  "source": "@site/docs/develop/testnet/index.mdx",
+  "sourceDirName": "testnet",
+  "slug": "/testnet/",
+  "permalink": "/develop/testnet/",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/testnet/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💾 NFT MarketPlace",
+    "permalink": "/develop/backend"
+  },
+  "next": {
+    "title": "Security Audits",
+    "permalink": "/develop/testnet/auditing"
+  }
+}

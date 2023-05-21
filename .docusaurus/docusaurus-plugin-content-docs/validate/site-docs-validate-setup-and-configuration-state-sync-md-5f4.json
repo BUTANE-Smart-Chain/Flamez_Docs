@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setup-and-configuration/state-sync",
+  "id": "setup-and-configuration/state-sync",
+  "title": "State Sync",
+  "description": "Learn about Tendermint Core state sync and support offered by the Butane SDK.",
+  "source": "@site/docs/validate/setup-and-configuration/state-sync.md",
+  "sourceDirName": "setup-and-configuration",
+  "slug": "/setup-and-configuration/state-sync",
+  "permalink": "/validate/setup-and-configuration/state-sync",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/setup-and-configuration/state-sync.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Disk Usage Optimization",
+    "permalink": "/validate/setup-and-configuration/disk-usage-configuration"
+  },
+  "next": {
+    "title": "Mempool",
+    "permalink": "/validate/setup-and-configuration/mempool"
+  }
+}

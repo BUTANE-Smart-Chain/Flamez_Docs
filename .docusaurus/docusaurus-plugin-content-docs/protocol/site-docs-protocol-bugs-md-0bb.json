@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bugs",
+  "id": "bugs",
+  "title": "🐛 Bugs",
+  "description": "My Image",
+  "source": "@site/docs/protocol/bugs.md",
+  "sourceDirName": ".",
+  "slug": "/bugs",
+  "permalink": "/protocol/bugs",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/bugs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "theblock",
+    "permalink": "/protocol/smartcontract-aptos/theblock"
+  },
+  "next": {
+    "title": "Security Overview",
+    "permalink": "/protocol/security/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "upgrades/automated-upgrades",
+  "id": "upgrades/automated-upgrades",
+  "title": "Automated Upgrades",
+  "description": "We highly recommend validators use Cosmovisor to run their nodes. This will make low-downtime upgrades smoother, as validators don't have to manually upgrade binaries during the upgrade. Instead users can pre-install new binaries, and Cosmovisor will automatically update them based on on-chain Software Upgrade proposals.",
+  "source": "@site/docs/validate/upgrades/automated-upgrades.md",
+  "sourceDirName": "upgrades",
+  "slug": "/upgrades/automated-upgrades",
+  "permalink": "/validate/upgrades/automated-upgrades",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/upgrades/automated-upgrades.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hard Fork Upgrades",
+    "permalink": "/validate/upgrades/hard-fork-upgrades"
+  },
+  "next": {
+    "title": "Manual Upgrades",
+    "permalink": "/validate/upgrades/manual-upgrades"
+  }
+}

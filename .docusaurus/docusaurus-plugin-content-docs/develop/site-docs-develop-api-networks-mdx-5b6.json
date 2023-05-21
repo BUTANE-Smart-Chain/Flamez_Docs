@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api/networks",
+  "id": "api/networks",
+  "title": "Networks",
+  "description": "Public",
+  "source": "@site/docs/develop/api/networks.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/networks",
+  "permalink": "/develop/api/networks",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/api/networks.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API",
+    "permalink": "/develop/api/"
+  },
+  "next": {
+    "title": "Ethereum JSON-RPC",
+    "permalink": "/develop/api/ethereum-json-rpc/"
+  }
+}

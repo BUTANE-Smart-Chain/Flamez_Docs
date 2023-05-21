@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setup-and-configuration/faq",
+  "id": "setup-and-configuration/faq",
+  "title": "Validator FAQ",
+  "description": "Check the FAQ for running a validator on Butane.",
+  "source": "@site/docs/validate/setup-and-configuration/faq.md",
+  "sourceDirName": "setup-and-configuration",
+  "slug": "/setup-and-configuration/faq",
+  "permalink": "/validate/setup-and-configuration/faq",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/setup-and-configuration/faq.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mempool",
+    "permalink": "/validate/setup-and-configuration/mempool"
+  },
+  "next": {
+    "title": "Validator Security",
+    "permalink": "/validate/security/"
+  }
+}

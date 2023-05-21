@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/indexers",
+  "id": "tools/indexers",
+  "title": "Indexers",
+  "description": "A graph indexer allows developers to efficiently query the network for information about transactions, addresses, and",
+  "source": "@site/docs/develop/tools/indexers.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/indexers",
+  "permalink": "/develop/tools/indexers",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/indexers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tools and IDE Plugins",
+    "permalink": "/develop/tools/tools-plugins"
+  },
+  "next": {
+    "title": "Butane Client Integrations",
+    "permalink": "/develop/tools/client-integrations"
+  }
+}

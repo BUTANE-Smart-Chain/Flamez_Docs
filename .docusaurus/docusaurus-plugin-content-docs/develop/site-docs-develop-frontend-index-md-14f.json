@@ -1,0 +1,24 @@
+{
+  "unversionedId": "frontend/index",
+  "id": "frontend/index",
+  "title": "Frontend",
+  "description": "The importance of having a frontend for dapp development is significant because it allows users to interact with the",
+  "source": "@site/docs/develop/frontend/index.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/",
+  "permalink": "/develop/frontend/",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/frontend/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "List of EVM Extensions",
+    "permalink": "/develop/smart-contracts/list-evm-extensions"
+  },
+  "next": {
+    "title": "💾 NFT MarketPlace",
+    "permalink": "/develop/backend"
+  }
+}

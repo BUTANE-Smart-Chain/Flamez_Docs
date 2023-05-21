@@ -1,0 +1,27 @@
+{
+  "unversionedId": "roadmap",
+  "id": "roadmap",
+  "title": "RoadMap",
+  "description": "Finally, it's a roadmap not a to-do list.",
+  "source": "@site/docs/use/roadmap.md",
+  "sourceDirName": ".",
+  "slug": "/roadmap",
+  "permalink": "/use/roadmap",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/roadmap.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Market Maker Integration",
+    "permalink": "/use/transfer-tokens/maker"
+  },
+  "next": {
+    "title": "Affilate Program",
+    "permalink": "/use/affilate"
+  }
+}

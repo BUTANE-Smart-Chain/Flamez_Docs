@@ -1,0 +1,202 @@
+{
+  "pluginId": "use",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "✨ Introducing",
+        "href": "/use/",
+        "docId": "index"
+      },
+      {
+        "type": "category",
+        "label": "AMM/DEX",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Token Swaps",
+            "href": "/use/transfer-tokens/swap",
+            "docId": "transfer-tokens/swap"
+          },
+          {
+            "type": "link",
+            "label": "How to Trade",
+            "href": "/use/transfer-tokens/trade",
+            "docId": "transfer-tokens/trade"
+          },
+          {
+            "type": "link",
+            "label": "Fees",
+            "href": "/use/transfer-tokens/fees",
+            "docId": "transfer-tokens/fees"
+          },
+          {
+            "type": "link",
+            "label": "Liquidity Pools (LP)",
+            "href": "/use/transfer-tokens/pools",
+            "docId": "transfer-tokens/pools"
+          },
+          {
+            "type": "link",
+            "label": "Market Maker Integration",
+            "href": "/use/transfer-tokens/maker",
+            "docId": "transfer-tokens/maker"
+          }
+        ],
+        "href": "/use/transfer-tokens/"
+      },
+      {
+        "type": "link",
+        "label": "RoadMap",
+        "href": "/use/roadmap",
+        "docId": "roadmap"
+      },
+      {
+        "type": "link",
+        "label": "Affilate Program",
+        "href": "/use/affilate",
+        "docId": "affilate"
+      },
+      {
+        "type": "link",
+        "label": " 🔥 Tokenomics",
+        "href": "/use/tokenomics",
+        "docId": "tokenomics/index"
+      },
+      {
+        "type": "link",
+        "label": "Frequently Asked Questions",
+        "href": "/use/faq",
+        "docId": "faq"
+      },
+      {
+        "type": "category",
+        "label": "Connect with us",
+        "items": [
+          {
+            "type": "link",
+            "label": "Twitter",
+            "href": "https://twitter.com/Butane_Network"
+          },
+          {
+            "type": "link",
+            "label": "Telegram",
+            "href": "https://t.me/butanechain"
+          },
+          {
+            "type": "link",
+            "label": "Discord",
+            "href": "https://discord.gg/zk4t92b9MX"
+          },
+          {
+            "type": "link",
+            "label": "Reddit",
+            "href": "https://www.reddit.com/r/ButaneNetwork/"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Ecosystem",
+        "items": [
+          {
+            "type": "link",
+            "label": "Website",
+            "href": "https://butane.tech/"
+          },
+          {
+            "type": "link",
+            "label": "DAO",
+            "href": "https://commonwealth.im/butane"
+          },
+          {
+            "type": "link",
+            "label": "Swap",
+            "href": "https://flamez.io/"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "affilate": {
+      "id": "affilate",
+      "title": "Affilate Program",
+      "description": "Flamez's Affiliate Program is designed to reward those who continue to help expand the community and ignite our vision. The program will be available at the start to a select group of Flamez advocates, and the Flamez Team plans to roll it out to more users. As an affiliate, you'll be part of a network of like-minded individuals committed to building a stronger DeFi community.",
+      "sidebar": "tutorialSidebar"
+    },
+    "faq": {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "description": "Wallets",
+      "sidebar": "tutorialSidebar"
+    },
+    "index": {
+      "id": "index",
+      "title": "✨ Introducing",
+      "description": "Welcome to the go-to portal for in-depth information about the Butane Network ($BBC) platform and ecosystem and how to interact with them!",
+      "sidebar": "tutorialSidebar"
+    },
+    "roadmap": {
+      "id": "roadmap",
+      "title": "RoadMap",
+      "description": "Finally, it's a roadmap not a to-do list.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tokenomics/index": {
+      "id": "tokenomics/index",
+      "title": "Overview of tokenomics",
+      "description": "$BBC and $GAS (dao token)",
+      "sidebar": "tutorialSidebar"
+    },
+    "transfer-tokens/fees": {
+      "id": "transfer-tokens/fees",
+      "title": "Fees",
+      "description": "In Exchange , on default, Flamez Smart Router will utilize liquidity from , V2, StableSwap (BBC Chain), and the AMM and market makers (BBC Chain & Ethereum), to execute trades and find the best price for traders.",
+      "sidebar": "tutorialSidebar"
+    },
+    "transfer-tokens/index": {
+      "id": "transfer-tokens/index",
+      "title": "AMM/DEX",
+      "description": "Flamez is an Automated Market Maker (AMM), and the Exchange is at the heart of Flamez. Flamez is the leading AMM on the BBC Smart Chain, and as statistics tell, the most popular Decentralized Exchange (DEX) ever!",
+      "sidebar": "tutorialSidebar"
+    },
+    "transfer-tokens/maker": {
+      "id": "transfer-tokens/maker",
+      "title": "Market Maker Integration",
+      "description": "Market Maker Integration on Ethereum",
+      "sidebar": "tutorialSidebar"
+    },
+    "transfer-tokens/pools": {
+      "id": "transfer-tokens/pools",
+      "title": "Liquidity Pools (LP)",
+      "description": "In the new Exchange liquidity will be managed in the form of non-fungible positions. You will still earn a share in the fees while providing liquidity.",
+      "sidebar": "tutorialSidebar"
+    },
+    "transfer-tokens/swap": {
+      "id": "transfer-tokens/swap",
+      "title": "Token Swaps",
+      "description": "Token swaps on Flamez are a simple way to trade one token for another via automated liquidity pools on BBC Smart Chain, Ethereum and Aptos, and also with market makers when trading tokens on BBC Smart Chain and Ethereum.",
+      "sidebar": "tutorialSidebar"
+    },
+    "transfer-tokens/trade": {
+      "id": "transfer-tokens/trade",
+      "title": "How to Trade",
+      "description": "Trading on Flamez is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and trading routes and calculations are all handled for you by the Flamez Smart Router.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

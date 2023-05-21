@@ -1,0 +1,27 @@
+{
+  "unversionedId": "upgrades/hard-fork-upgrades",
+  "id": "upgrades/hard-fork-upgrades",
+  "title": "Hard Fork Upgrades",
+  "description": "",
+  "source": "@site/docs/validate/upgrades/hard-fork-upgrades.md",
+  "sourceDirName": "upgrades",
+  "slug": "/upgrades/hard-fork-upgrades",
+  "permalink": "/validate/upgrades/hard-fork-upgrades",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/upgrades/hard-fork-upgrades.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "List of Upgrades",
+    "permalink": "/validate/upgrades/list-of-upgrades"
+  },
+  "next": {
+    "title": "Automated Upgrades",
+    "permalink": "/validate/upgrades/automated-upgrades"
+  }
+}

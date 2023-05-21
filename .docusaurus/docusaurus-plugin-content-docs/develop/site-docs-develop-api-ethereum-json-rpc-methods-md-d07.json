@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api/ethereum-json-rpc/methods",
+  "id": "api/ethereum-json-rpc/methods",
+  "title": "Methods",
+  "description": "Find below a list of JSON-RPC methods supported on Butane, sorted by namespaces.",
+  "source": "@site/docs/develop/api/ethereum-json-rpc/methods.md",
+  "sourceDirName": "api/ethereum-json-rpc",
+  "slug": "/api/ethereum-json-rpc/methods",
+  "permalink": "/develop/api/ethereum-json-rpc/methods",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/api/ethereum-json-rpc/methods.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ethereum JSON-RPC",
+    "permalink": "/develop/api/ethereum-json-rpc/"
+  },
+  "next": {
+    "title": "Butane (Coming Soon) gRPC & REST",
+    "permalink": "/develop/api/cosmos-grpc"
+  }
+}

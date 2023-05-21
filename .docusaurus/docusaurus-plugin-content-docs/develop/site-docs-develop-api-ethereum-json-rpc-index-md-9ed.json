@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api/ethereum-json-rpc/index",
+  "id": "api/ethereum-json-rpc/index",
+  "title": "Ethereum JSON-RPC",
+  "description": "The JSON-PRC Server provides an API that allows you to connect to the Butane blockchain and interact with the EVM. This",
+  "source": "@site/docs/develop/api/ethereum-json-rpc/index.md",
+  "sourceDirName": "api/ethereum-json-rpc",
+  "slug": "/api/ethereum-json-rpc/",
+  "permalink": "/develop/api/ethereum-json-rpc/",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/api/ethereum-json-rpc/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Networks",
+    "permalink": "/develop/api/networks"
+  },
+  "next": {
+    "title": "Methods",
+    "permalink": "/develop/api/ethereum-json-rpc/methods"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "security/safu",
+  "id": "security/safu",
+  "title": "Simple Arrangement for Funding Upload (SAFU)",
+  "description": "The Simple Arrangement for Funding Upload (the \"SAFU\")",
+  "source": "@site/docs/protocol/security/safu.md",
+  "sourceDirName": "security",
+  "slug": "/security/safu",
+  "permalink": "/protocol/security/safu",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/security/safu.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Audits",
+    "permalink": "/protocol/security/audits"
+  },
+  "next": {
+    "title": "error",
+    "permalink": "/protocol/error"
+  }
+}

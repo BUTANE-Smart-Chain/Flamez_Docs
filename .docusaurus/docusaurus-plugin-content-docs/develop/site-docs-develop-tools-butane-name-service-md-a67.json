@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/butane-name-service",
+  "id": "tools/butane-name-service",
+  "title": "Butane-Name-Service",
+  "description": "BNS has similar goals to DNS, the Internet’s Domain Name Service,",
+  "source": "@site/docs/develop/tools/butane-name-service.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/butane-name-service",
+  "permalink": "/develop/tools/butane-name-service",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/butane-name-service.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Butane Client Integrations",
+    "permalink": "/develop/tools/client-integrations"
+  },
+  "next": {
+    "title": "API",
+    "permalink": "/develop/api/"
+  }
+}

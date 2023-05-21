@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/index",
+  "id": "tools/index",
+  "title": "Tools",
+  "description": "Tools play a crucial role in blockchain development as they help streamline the development process and make it easier",
+  "source": "@site/docs/develop/tools/index.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/",
+  "permalink": "/develop/tools/",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💠 Mainnet",
+    "permalink": "/develop/mainnet"
+  },
+  "next": {
+    "title": "Block Explorers",
+    "permalink": "/develop/tools/explorers"
+  }
+}

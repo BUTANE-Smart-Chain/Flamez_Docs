@@ -1,0 +1,27 @@
+{
+  "unversionedId": "upgrades/manual-upgrades",
+  "id": "upgrades/manual-upgrades",
+  "title": "Manual Upgrades",
+  "description": "Learn how to manually upgrade your node.",
+  "source": "@site/docs/validate/upgrades/manual-upgrades.md",
+  "sourceDirName": "upgrades",
+  "slug": "/upgrades/manual-upgrades",
+  "permalink": "/validate/upgrades/manual-upgrades",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/upgrades/manual-upgrades.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Automated Upgrades",
+    "permalink": "/validate/upgrades/automated-upgrades"
+  },
+  "next": {
+    "title": "Rollback",
+    "permalink": "/validate/upgrades/rollback"
+  }
+}

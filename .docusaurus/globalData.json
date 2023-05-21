@@ -1,0 +1,453 @@
+{
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": [
+        "G-3JSJBBPS3L"
+      ],
+      "anonymizeIP": false,
+      "id": "default"
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "protocol": {
+      "path": "/protocol",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/protocol",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "bugs",
+              "path": "/protocol/bugs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "error",
+              "path": "/protocol/error",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq",
+              "path": "/protocol/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/protocol/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "security/audits",
+              "path": "/protocol/security/audits",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "security/index",
+              "path": "/protocol/security/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "security/safu",
+              "path": "/protocol/security/safu",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartcontract-aptos/index",
+              "path": "/protocol/smartcontract-aptos/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smartcontract-aptos/theblock",
+              "path": "/protocol/smartcontract-aptos/theblock",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/protocol/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "README",
+          "docs": [
+            {
+              "id": "README",
+              "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/",
+                "label": "README"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "use": {
+      "path": "/use",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/use",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "affilate",
+              "path": "/use/affilate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq",
+              "path": "/use/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/use/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "roadmap",
+              "path": "/use/roadmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tokenomics/index",
+              "path": "/use/tokenomics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "transfer-tokens/fees",
+              "path": "/use/transfer-tokens/fees",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "transfer-tokens/index",
+              "path": "/use/transfer-tokens/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "transfer-tokens/maker",
+              "path": "/use/transfer-tokens/maker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "transfer-tokens/pools",
+              "path": "/use/transfer-tokens/pools",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "transfer-tokens/swap",
+              "path": "/use/transfer-tokens/swap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "transfer-tokens/trade",
+              "path": "/use/transfer-tokens/trade",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/use/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "develop": {
+      "path": "/develop",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/develop",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "api/cosmos-grpc",
+              "path": "/develop/api/cosmos-grpc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/ethereum-json-rpc/index",
+              "path": "/develop/api/ethereum-json-rpc/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/ethereum-json-rpc/methods",
+              "path": "/develop/api/ethereum-json-rpc/methods",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/index",
+              "path": "/develop/api/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/networks",
+              "path": "/develop/api/networks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/snapshots-archives",
+              "path": "/develop/api/snapshots-archives",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/tendermint-rpc",
+              "path": "/develop/api/tendermint-rpc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "backend",
+              "path": "/develop/backend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "frontend/index",
+              "path": "/develop/frontend/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/develop/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mainnet",
+              "path": "/develop/mainnet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smart-contracts/index",
+              "path": "/develop/smart-contracts/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smart-contracts/list-evm-extensions",
+              "path": "/develop/smart-contracts/list-evm-extensions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "testnet/auditing",
+              "path": "/develop/testnet/auditing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "testnet/index",
+              "path": "/develop/testnet/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/butane-name-service",
+              "path": "/develop/tools/butane-name-service",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/client-integrations",
+              "path": "/develop/tools/client-integrations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/contract-verifications",
+              "path": "/develop/tools/contract-verifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/explorers",
+              "path": "/develop/tools/explorers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/index",
+              "path": "/develop/tools/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/indexers",
+              "path": "/develop/tools/indexers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/oracles",
+              "path": "/develop/tools/oracles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/tools-plugins",
+              "path": "/develop/tools/tools-plugins",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/develop/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "validate": {
+      "path": "/validate",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/validate",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "index",
+              "path": "/validate/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mainnet",
+              "path": "/validate/mainnet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "relayers",
+              "path": "/validate/relayers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "security/index",
+              "path": "/validate/security/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "security/tendermint-kms",
+              "path": "/validate/security/tendermint-kms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "security/validator-security-checklist",
+              "path": "/validate/security/validator-security-checklist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setup-and-configuration/configuration",
+              "path": "/validate/setup-and-configuration/configuration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setup-and-configuration/disk-usage-configuration",
+              "path": "/validate/setup-and-configuration/disk-usage-configuration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setup-and-configuration/faq",
+              "path": "/validate/setup-and-configuration/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setup-and-configuration/mempool",
+              "path": "/validate/setup-and-configuration/mempool",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setup-and-configuration/run-a-validator",
+              "path": "/validate/setup-and-configuration/run-a-validator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setup-and-configuration/state-sync",
+              "path": "/validate/setup-and-configuration/state-sync",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "stake",
+              "path": "/validate/stake",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "testnet",
+              "path": "/validate/testnet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "upgrades/automated-upgrades",
+              "path": "/validate/upgrades/automated-upgrades",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "upgrades/hard-fork-upgrades",
+              "path": "/validate/upgrades/hard-fork-upgrades",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "upgrades/index",
+              "path": "/validate/upgrades/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "upgrades/list-of-upgrades",
+              "path": "/validate/upgrades/list-of-upgrades",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "upgrades/manual-upgrades",
+              "path": "/validate/upgrades/manual-upgrades",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "upgrades/rollback",
+              "path": "/validate/upgrades/rollback",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/validate/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

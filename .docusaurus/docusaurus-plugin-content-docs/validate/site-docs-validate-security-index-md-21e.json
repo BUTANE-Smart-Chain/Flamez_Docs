@@ -1,0 +1,27 @@
+{
+  "unversionedId": "security/index",
+  "id": "security/index",
+  "title": "Validator Security",
+  "description": "Each validator is encouraged to run its operations independently, as diverse setups increase the resilience of the network. Validator candidates should put aside meaningful time to guarantee a secure validator launch.",
+  "source": "@site/docs/validate/security/index.md",
+  "sourceDirName": "security",
+  "slug": "/security/",
+  "permalink": "/validate/security/",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/security/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Validator FAQ",
+    "permalink": "/validate/setup-and-configuration/faq"
+  },
+  "next": {
+    "title": "Tendermint KMS",
+    "permalink": "/validate/security/tendermint-kms"
+  }
+}

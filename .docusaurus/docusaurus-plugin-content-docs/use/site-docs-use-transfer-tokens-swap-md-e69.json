@@ -1,0 +1,27 @@
+{
+  "unversionedId": "transfer-tokens/swap",
+  "id": "transfer-tokens/swap",
+  "title": "Token Swaps",
+  "description": "Token swaps on Flamez are a simple way to trade one token for another via automated liquidity pools on BBC Smart Chain, Ethereum and Aptos, and also with market makers when trading tokens on BBC Smart Chain and Ethereum.",
+  "source": "@site/docs/use/transfer-tokens/swap.md",
+  "sourceDirName": "transfer-tokens",
+  "slug": "/transfer-tokens/swap",
+  "permalink": "/use/transfer-tokens/swap",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/transfer-tokens/swap.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AMM/DEX",
+    "permalink": "/use/transfer-tokens/"
+  },
+  "next": {
+    "title": "How to Trade",
+    "permalink": "/use/transfer-tokens/trade"
+  }
+}

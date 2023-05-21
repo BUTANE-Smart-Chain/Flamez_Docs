@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/explorers",
+  "id": "tools/explorers",
+  "title": "Block Explorers",
+  "description": "Blockchain explorers allow users to query the blockchain for data. Explorers are often compared to search engines for the blockchain. By using an explorer, users can search and track balances, transactions, contracts, and other broadcast data to the bbbcScan offers two types block explorers: an EVM explorer and a butane explorer. Each explorer queries data respective to their environment with the EVM explorers querying Ethereum-formatted data (blocks, transactions, accounts, smart contracts, etc) and the butane explorers querying butane-formatted data (butane and IBC transactions, blocks, accounts, module data, etc).",
+  "source": "@site/docs/develop/tools/explorers.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/explorers",
+  "permalink": "/develop/tools/explorers",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/explorers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tools",
+    "permalink": "/develop/tools/"
+  },
+  "next": {
+    "title": "Oracles",
+    "permalink": "/develop/tools/oracles"
+  }
+}

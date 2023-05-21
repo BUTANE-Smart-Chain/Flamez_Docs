@@ -1,0 +1,24 @@
+{
+  "unversionedId": "smart-contracts/index",
+  "id": "smart-contracts/index",
+  "title": "Yield Farming",
+  "description": "Since the introduction of Ethereum in 2015,",
+  "source": "@site/docs/develop/smart-contracts/index.md",
+  "sourceDirName": "smart-contracts",
+  "slug": "/smart-contracts/",
+  "permalink": "/develop/smart-contracts/",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/smart-contracts/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔥 Exchange",
+    "permalink": "/develop/"
+  },
+  "next": {
+    "title": "List of EVM Extensions",
+    "permalink": "/develop/smart-contracts/list-evm-extensions"
+  }
+}

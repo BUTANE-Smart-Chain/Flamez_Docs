@@ -1,0 +1,27 @@
+{
+  "unversionedId": "transfer-tokens/pools",
+  "id": "transfer-tokens/pools",
+  "title": "Liquidity Pools (LP)",
+  "description": "In the new Exchange liquidity will be managed in the form of non-fungible positions. You will still earn a share in the fees while providing liquidity.",
+  "source": "@site/docs/use/transfer-tokens/pools.md",
+  "sourceDirName": "transfer-tokens",
+  "slug": "/transfer-tokens/pools",
+  "permalink": "/use/transfer-tokens/pools",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/transfer-tokens/pools.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fees",
+    "permalink": "/use/transfer-tokens/fees"
+  },
+  "next": {
+    "title": "Market Maker Integration",
+    "permalink": "/use/transfer-tokens/maker"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "mainnet",
+  "id": "mainnet",
+  "title": "🌐 Mainnet",
+  "description": "This document outlines the steps to join an existing mainnet.",
+  "source": "@site/docs/validate/mainnet.mdx",
+  "sourceDirName": ".",
+  "slug": "/mainnet",
+  "permalink": "/validate/mainnet",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/mainnet.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🆕 Testnet",
+    "permalink": "/validate/testnet"
+  },
+  "next": {
+    "title": "💨 Run an IBC Relayer",
+    "permalink": "/validate/relayers"
+  }
+}

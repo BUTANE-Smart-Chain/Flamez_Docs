@@ -1,0 +1,27 @@
+{
+  "unversionedId": "upgrades/index",
+  "id": "upgrades/index",
+  "title": "Overview",
+  "description": "Learn how to manage chain upgrades for full and validator nodes. There are 3 different categories for upgrades:",
+  "source": "@site/docs/validate/upgrades/index.md",
+  "sourceDirName": "upgrades",
+  "slug": "/upgrades/",
+  "permalink": "/validate/upgrades/",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/upgrades/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Validator Security Checklist",
+    "permalink": "/validate/security/validator-security-checklist"
+  },
+  "next": {
+    "title": "List of Upgrades",
+    "permalink": "/validate/upgrades/list-of-upgrades"
+  }
+}

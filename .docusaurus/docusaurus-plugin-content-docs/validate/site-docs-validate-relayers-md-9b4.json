@@ -1,0 +1,27 @@
+{
+  "unversionedId": "relayers",
+  "id": "relayers",
+  "title": "💨 Run an IBC Relayer",
+  "description": "What is an IBC Relayer?",
+  "source": "@site/docs/validate/relayers.md",
+  "sourceDirName": ".",
+  "slug": "/relayers",
+  "permalink": "/validate/relayers",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/relayers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌐 Mainnet",
+    "permalink": "/validate/mainnet"
+  },
+  "next": {
+    "title": "🪄 Stake & Withdraw",
+    "permalink": "/validate/stake"
+  }
+}

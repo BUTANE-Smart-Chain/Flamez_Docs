@@ -1,0 +1,2424 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\sidebars.js",
+          "contentPath": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\docs\\home",
+          "contentPathLocalized": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "README",
+              "id": "README",
+              "title": "README",
+              "description": "",
+              "source": "@site/docs/home/README.mdx",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/docs/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "README"
+              },
+              {
+                "type": "category",
+                "label": "Connect with us",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Twitter",
+                    "href": "https://twitter.com/Butane_Network"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Telegram",
+                    "href": "https://t.me/butanechain"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Discord",
+                    "href": "https://discord.gg/zk4t92b9MX"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Reddit",
+                    "href": "https://www.reddit.com/r/ButaneNetwork/"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Ecosystem",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Website",
+                    "href": "https://butane.tech/"
+                  },
+                  {
+                    "type": "link",
+                    "label": "DAO",
+                    "href": "https://commonwealth.im/butane"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Swap",
+                    "href": "https://flamez.io/"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "use": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/use",
+          "tagsPath": "/use/tags",
+          "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use",
+          "editUrlLocalized": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/i18n/en/docusaurus-plugin-content-docs-use/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\sidebars.js",
+          "contentPath": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\docs\\use",
+          "contentPathLocalized": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\i18n\\en\\docusaurus-plugin-content-docs-use\\current",
+          "docs": [
+            {
+              "unversionedId": "affilate",
+              "id": "affilate",
+              "title": "Affilate Program",
+              "description": "Flamez's Affiliate Program is designed to reward those who continue to help expand the community and ignite our vision. The program will be available at the start to a select group of Flamez advocates, and the Flamez Team plans to roll it out to more users. As an affiliate, you'll be part of a network of like-minded individuals committed to building a stronger DeFi community.",
+              "source": "@site/docs/use/affilate.md",
+              "sourceDirName": ".",
+              "slug": "/affilate",
+              "permalink": "/use/affilate",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/affilate.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "RoadMap",
+                "permalink": "/use/roadmap"
+              },
+              "next": {
+                "title": "Overview of tokenomics",
+                "permalink": "/use/tokenomics"
+              }
+            },
+            {
+              "unversionedId": "faq",
+              "id": "faq",
+              "title": "Frequently Asked Questions",
+              "description": "Wallets",
+              "source": "@site/docs/use/faq.md",
+              "sourceDirName": ".",
+              "slug": "/faq",
+              "permalink": "/use/faq",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/faq.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview of tokenomics",
+                "permalink": "/use/tokenomics"
+              }
+            },
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "✨ Introducing",
+              "description": "Welcome to the go-to portal for in-depth information about the Butane Network ($BBC) platform and ecosystem and how to interact with them!",
+              "source": "@site/docs/use/index.mdx",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/use/",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/index.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "AMM/DEX",
+                "permalink": "/use/transfer-tokens/"
+              }
+            },
+            {
+              "unversionedId": "roadmap",
+              "id": "roadmap",
+              "title": "RoadMap",
+              "description": "Finally, it's a roadmap not a to-do list.",
+              "source": "@site/docs/use/roadmap.md",
+              "sourceDirName": ".",
+              "slug": "/roadmap",
+              "permalink": "/use/roadmap",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/roadmap.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Market Maker Integration",
+                "permalink": "/use/transfer-tokens/maker"
+              },
+              "next": {
+                "title": "Affilate Program",
+                "permalink": "/use/affilate"
+              }
+            },
+            {
+              "unversionedId": "tokenomics/index",
+              "id": "tokenomics/index",
+              "title": "Overview of tokenomics",
+              "description": "$BBC and $GAS (dao token)",
+              "source": "@site/docs/use/tokenomics/index.mdx",
+              "sourceDirName": "tokenomics",
+              "slug": "/tokenomics",
+              "permalink": "/use/tokenomics",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/tokenomics/index.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Overview of tokenomics",
+                "slug": "/tokenomics"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Affilate Program",
+                "permalink": "/use/affilate"
+              },
+              "next": {
+                "title": "Frequently Asked Questions",
+                "permalink": "/use/faq"
+              }
+            },
+            {
+              "unversionedId": "transfer-tokens/fees",
+              "id": "transfer-tokens/fees",
+              "title": "Fees",
+              "description": "In Exchange , on default, Flamez Smart Router will utilize liquidity from , V2, StableSwap (BBC Chain), and the AMM and market makers (BBC Chain & Ethereum), to execute trades and find the best price for traders.",
+              "source": "@site/docs/use/transfer-tokens/fees.md",
+              "sourceDirName": "transfer-tokens",
+              "slug": "/transfer-tokens/fees",
+              "permalink": "/use/transfer-tokens/fees",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/transfer-tokens/fees.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to Trade",
+                "permalink": "/use/transfer-tokens/trade"
+              },
+              "next": {
+                "title": "Liquidity Pools (LP)",
+                "permalink": "/use/transfer-tokens/pools"
+              }
+            },
+            {
+              "unversionedId": "transfer-tokens/index",
+              "id": "transfer-tokens/index",
+              "title": "AMM/DEX",
+              "description": "Flamez is an Automated Market Maker (AMM), and the Exchange is at the heart of Flamez. Flamez is the leading AMM on the BBC Smart Chain, and as statistics tell, the most popular Decentralized Exchange (DEX) ever!",
+              "source": "@site/docs/use/transfer-tokens/index.md",
+              "sourceDirName": "transfer-tokens",
+              "slug": "/transfer-tokens/",
+              "permalink": "/use/transfer-tokens/",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/transfer-tokens/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "✨ Introducing",
+                "permalink": "/use/"
+              },
+              "next": {
+                "title": "Token Swaps",
+                "permalink": "/use/transfer-tokens/swap"
+              }
+            },
+            {
+              "unversionedId": "transfer-tokens/maker",
+              "id": "transfer-tokens/maker",
+              "title": "Market Maker Integration",
+              "description": "Market Maker Integration on Ethereum",
+              "source": "@site/docs/use/transfer-tokens/maker.md",
+              "sourceDirName": "transfer-tokens",
+              "slug": "/transfer-tokens/maker",
+              "permalink": "/use/transfer-tokens/maker",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/transfer-tokens/maker.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Liquidity Pools (LP)",
+                "permalink": "/use/transfer-tokens/pools"
+              },
+              "next": {
+                "title": "RoadMap",
+                "permalink": "/use/roadmap"
+              }
+            },
+            {
+              "unversionedId": "transfer-tokens/pools",
+              "id": "transfer-tokens/pools",
+              "title": "Liquidity Pools (LP)",
+              "description": "In the new Exchange liquidity will be managed in the form of non-fungible positions. You will still earn a share in the fees while providing liquidity.",
+              "source": "@site/docs/use/transfer-tokens/pools.md",
+              "sourceDirName": "transfer-tokens",
+              "slug": "/transfer-tokens/pools",
+              "permalink": "/use/transfer-tokens/pools",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/transfer-tokens/pools.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Fees",
+                "permalink": "/use/transfer-tokens/fees"
+              },
+              "next": {
+                "title": "Market Maker Integration",
+                "permalink": "/use/transfer-tokens/maker"
+              }
+            },
+            {
+              "unversionedId": "transfer-tokens/swap",
+              "id": "transfer-tokens/swap",
+              "title": "Token Swaps",
+              "description": "Token swaps on Flamez are a simple way to trade one token for another via automated liquidity pools on BBC Smart Chain, Ethereum and Aptos, and also with market makers when trading tokens on BBC Smart Chain and Ethereum.",
+              "source": "@site/docs/use/transfer-tokens/swap.md",
+              "sourceDirName": "transfer-tokens",
+              "slug": "/transfer-tokens/swap",
+              "permalink": "/use/transfer-tokens/swap",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/transfer-tokens/swap.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AMM/DEX",
+                "permalink": "/use/transfer-tokens/"
+              },
+              "next": {
+                "title": "How to Trade",
+                "permalink": "/use/transfer-tokens/trade"
+              }
+            },
+            {
+              "unversionedId": "transfer-tokens/trade",
+              "id": "transfer-tokens/trade",
+              "title": "How to Trade",
+              "description": "Trading on Flamez is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and trading routes and calculations are all handled for you by the Flamez Smart Router.",
+              "source": "@site/docs/use/transfer-tokens/trade.md",
+              "sourceDirName": "transfer-tokens",
+              "slug": "/transfer-tokens/trade",
+              "permalink": "/use/transfer-tokens/trade",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/transfer-tokens/trade.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Token Swaps",
+                "permalink": "/use/transfer-tokens/swap"
+              },
+              "next": {
+                "title": "Fees",
+                "permalink": "/use/transfer-tokens/fees"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": "AMM/DEX",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "transfer-tokens/swap"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "transfer-tokens/trade"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "transfer-tokens/fees"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "transfer-tokens/pools"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "transfer-tokens/maker"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "transfer-tokens/index"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "roadmap"
+              },
+              {
+                "type": "doc",
+                "id": "affilate"
+              },
+              {
+                "type": "doc",
+                "label": " 🔥 Tokenomics",
+                "id": "tokenomics/index"
+              },
+              {
+                "type": "doc",
+                "id": "faq"
+              },
+              {
+                "type": "category",
+                "label": "Connect with us",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Twitter",
+                    "href": "https://twitter.com/Butane_Network"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Telegram",
+                    "href": "https://t.me/butanechain"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Discord",
+                    "href": "https://discord.gg/zk4t92b9MX"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Reddit",
+                    "href": "https://www.reddit.com/r/ButaneNetwork/"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Ecosystem",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Website",
+                    "href": "https://butane.tech/"
+                  },
+                  {
+                    "type": "link",
+                    "label": "DAO",
+                    "href": "https://commonwealth.im/butane"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Swap",
+                    "href": "https://flamez.io/"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "develop": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/develop",
+          "tagsPath": "/develop/tags",
+          "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop",
+          "editUrlLocalized": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/i18n/en/docusaurus-plugin-content-docs-develop/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\sidebars.js",
+          "contentPath": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\docs\\develop",
+          "contentPathLocalized": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\i18n\\en\\docusaurus-plugin-content-docs-develop\\current",
+          "docs": [
+            {
+              "unversionedId": "api/cosmos-grpc",
+              "id": "api/cosmos-grpc",
+              "title": "Butane (Coming Soon) gRPC & REST",
+              "description": "Butane gRPC",
+              "source": "@site/docs/develop/api/cosmos-grpc.md",
+              "sourceDirName": "api",
+              "slug": "/api/cosmos-grpc",
+              "permalink": "/develop/api/cosmos-grpc",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/api/cosmos-grpc.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Methods",
+                "permalink": "/develop/api/ethereum-json-rpc/methods"
+              },
+              "next": {
+                "title": "Tendermint RPC",
+                "permalink": "/develop/api/tendermint-rpc"
+              }
+            },
+            {
+              "unversionedId": "api/ethereum-json-rpc/index",
+              "id": "api/ethereum-json-rpc/index",
+              "title": "Ethereum JSON-RPC",
+              "description": "The JSON-PRC Server provides an API that allows you to connect to the Butane blockchain and interact with the EVM. This",
+              "source": "@site/docs/develop/api/ethereum-json-rpc/index.md",
+              "sourceDirName": "api/ethereum-json-rpc",
+              "slug": "/api/ethereum-json-rpc/",
+              "permalink": "/develop/api/ethereum-json-rpc/",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/api/ethereum-json-rpc/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Networks",
+                "permalink": "/develop/api/networks"
+              },
+              "next": {
+                "title": "Methods",
+                "permalink": "/develop/api/ethereum-json-rpc/methods"
+              }
+            },
+            {
+              "unversionedId": "api/ethereum-json-rpc/methods",
+              "id": "api/ethereum-json-rpc/methods",
+              "title": "Methods",
+              "description": "Find below a list of JSON-RPC methods supported on Butane, sorted by namespaces.",
+              "source": "@site/docs/develop/api/ethereum-json-rpc/methods.md",
+              "sourceDirName": "api/ethereum-json-rpc",
+              "slug": "/api/ethereum-json-rpc/methods",
+              "permalink": "/develop/api/ethereum-json-rpc/methods",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/api/ethereum-json-rpc/methods.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ethereum JSON-RPC",
+                "permalink": "/develop/api/ethereum-json-rpc/"
+              },
+              "next": {
+                "title": "Butane (Coming Soon) gRPC & REST",
+                "permalink": "/develop/api/cosmos-grpc"
+              }
+            },
+            {
+              "unversionedId": "api/index",
+              "id": "api/index",
+              "title": "API",
+              "description": "These following API's are recommended for development purposes. For maximun control and reliability it's recommended to run your own node.",
+              "source": "@site/docs/develop/api/index.mdx",
+              "sourceDirName": "api",
+              "slug": "/api/",
+              "permalink": "/develop/api/",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/api/index.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Butane-Name-Service",
+                "permalink": "/develop/tools/butane-name-service"
+              },
+              "next": {
+                "title": "Networks",
+                "permalink": "/develop/api/networks"
+              }
+            },
+            {
+              "unversionedId": "api/networks",
+              "id": "api/networks",
+              "title": "Networks",
+              "description": "Public",
+              "source": "@site/docs/develop/api/networks.mdx",
+              "sourceDirName": "api",
+              "slug": "/api/networks",
+              "permalink": "/develop/api/networks",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/api/networks.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "API",
+                "permalink": "/develop/api/"
+              },
+              "next": {
+                "title": "Ethereum JSON-RPC",
+                "permalink": "/develop/api/ethereum-json-rpc/"
+              }
+            },
+            {
+              "unversionedId": "api/snapshots-archives",
+              "id": "api/snapshots-archives",
+              "title": "Snapshots & Archive Nodes",
+              "description": "Quickly sync your node with Butane using a snapshot or serve queries for prev versions using archive nodes",
+              "source": "@site/docs/develop/api/snapshots-archives.mdx",
+              "sourceDirName": "api",
+              "slug": "/api/snapshots-archives",
+              "permalink": "/develop/api/snapshots-archives",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/api/snapshots-archives.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tendermint RPC",
+                "permalink": "/develop/api/tendermint-rpc"
+              }
+            },
+            {
+              "unversionedId": "api/tendermint-rpc",
+              "id": "api/tendermint-rpc",
+              "title": "Tendermint RPC",
+              "description": "The Tendermint RPC allows you to query transactions, blocks, consensus state, broadcast transactions, etc.",
+              "source": "@site/docs/develop/api/tendermint-rpc.md",
+              "sourceDirName": "api",
+              "slug": "/api/tendermint-rpc",
+              "permalink": "/develop/api/tendermint-rpc",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/api/tendermint-rpc.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Butane (Coming Soon) gRPC & REST",
+                "permalink": "/develop/api/cosmos-grpc"
+              },
+              "next": {
+                "title": "Snapshots & Archive Nodes",
+                "permalink": "/develop/api/snapshots-archives"
+              }
+            },
+            {
+              "unversionedId": "backend",
+              "id": "backend",
+              "title": "💾 NFT MarketPlace",
+              "description": "It is important to note that not all DApps require a backend. For example, if the DApp is designed solely for",
+              "source": "@site/docs/develop/backend.md",
+              "sourceDirName": ".",
+              "slug": "/backend",
+              "permalink": "/develop/backend",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/backend.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "slug": "/backend"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Frontend",
+                "permalink": "/develop/frontend/"
+              },
+              "next": {
+                "title": "Testnet",
+                "permalink": "/develop/testnet/"
+              }
+            },
+            {
+              "unversionedId": "frontend/index",
+              "id": "frontend/index",
+              "title": "Frontend",
+              "description": "The importance of having a frontend for dapp development is significant because it allows users to interact with the",
+              "source": "@site/docs/develop/frontend/index.md",
+              "sourceDirName": "frontend",
+              "slug": "/frontend/",
+              "permalink": "/develop/frontend/",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/frontend/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "List of EVM Extensions",
+                "permalink": "/develop/smart-contracts/list-evm-extensions"
+              },
+              "next": {
+                "title": "💾 NFT MarketPlace",
+                "permalink": "/develop/backend"
+              }
+            },
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "🔥 Exchange",
+              "description": "Following this documentation and our academy you can learn how to build a dApp on Butane and become part of the rich",
+              "source": "@site/docs/develop/index.mdx",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/develop/",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/index.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Yield Farming",
+                "permalink": "/develop/smart-contracts/"
+              }
+            },
+            {
+              "unversionedId": "mainnet",
+              "id": "mainnet",
+              "title": "💠 Mainnet",
+              "description": "Before real users begin to transact with actual funds on your dApp, it is important to take into account certain factors",
+              "source": "@site/docs/develop/mainnet.md",
+              "sourceDirName": ".",
+              "slug": "/mainnet",
+              "permalink": "/develop/mainnet",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/mainnet.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Security Audits",
+                "permalink": "/develop/testnet/auditing"
+              },
+              "next": {
+                "title": "Tools",
+                "permalink": "/develop/tools/"
+              }
+            },
+            {
+              "unversionedId": "smart-contracts/index",
+              "id": "smart-contracts/index",
+              "title": "Yield Farming",
+              "description": "Since the introduction of Ethereum in 2015,",
+              "source": "@site/docs/develop/smart-contracts/index.md",
+              "sourceDirName": "smart-contracts",
+              "slug": "/smart-contracts/",
+              "permalink": "/develop/smart-contracts/",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/smart-contracts/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🔥 Exchange",
+                "permalink": "/develop/"
+              },
+              "next": {
+                "title": "List of EVM Extensions",
+                "permalink": "/develop/smart-contracts/list-evm-extensions"
+              }
+            },
+            {
+              "unversionedId": "smart-contracts/list-evm-extensions",
+              "id": "smart-contracts/list-evm-extensions",
+              "title": "List of EVM Extensions",
+              "description": "Available Extensions",
+              "source": "@site/docs/develop/smart-contracts/list-evm-extensions.md",
+              "sourceDirName": "smart-contracts",
+              "slug": "/smart-contracts/list-evm-extensions",
+              "permalink": "/develop/smart-contracts/list-evm-extensions",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/smart-contracts/list-evm-extensions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Yield Farming",
+                "permalink": "/develop/smart-contracts/"
+              },
+              "next": {
+                "title": "Frontend",
+                "permalink": "/develop/frontend/"
+              }
+            },
+            {
+              "unversionedId": "testnet/auditing",
+              "id": "testnet/auditing",
+              "title": "Security Audits",
+              "description": "Security audit is a comprehensive evaluation of the security and stability of a smart contract or decentralized",
+              "source": "@site/docs/develop/testnet/auditing.md",
+              "sourceDirName": "testnet",
+              "slug": "/testnet/auditing",
+              "permalink": "/develop/testnet/auditing",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/testnet/auditing.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Testnet",
+                "permalink": "/develop/testnet/"
+              },
+              "next": {
+                "title": "💠 Mainnet",
+                "permalink": "/develop/mainnet"
+              }
+            },
+            {
+              "unversionedId": "testnet/index",
+              "id": "testnet/index",
+              "title": "Testnet",
+              "description": "Add Butane Testnet to Keplr.",
+              "source": "@site/docs/develop/testnet/index.mdx",
+              "sourceDirName": "testnet",
+              "slug": "/testnet/",
+              "permalink": "/develop/testnet/",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/testnet/index.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "💾 NFT MarketPlace",
+                "permalink": "/develop/backend"
+              },
+              "next": {
+                "title": "Security Audits",
+                "permalink": "/develop/testnet/auditing"
+              }
+            },
+            {
+              "unversionedId": "tools/butane-name-service",
+              "id": "tools/butane-name-service",
+              "title": "Butane-Name-Service",
+              "description": "BNS has similar goals to DNS, the Internet’s Domain Name Service,",
+              "source": "@site/docs/develop/tools/butane-name-service.md",
+              "sourceDirName": "tools",
+              "slug": "/tools/butane-name-service",
+              "permalink": "/develop/tools/butane-name-service",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/butane-name-service.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Butane Client Integrations",
+                "permalink": "/develop/tools/client-integrations"
+              },
+              "next": {
+                "title": "API",
+                "permalink": "/develop/api/"
+              }
+            },
+            {
+              "unversionedId": "tools/client-integrations",
+              "id": "tools/client-integrations",
+              "title": "Butane Client Integrations",
+              "description": "Client integration libraries play a crucial role in blockchain technology by making it easier for developers to interact",
+              "source": "@site/docs/develop/tools/client-integrations.md",
+              "sourceDirName": "tools",
+              "slug": "/tools/client-integrations",
+              "permalink": "/develop/tools/client-integrations",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/client-integrations.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Indexers",
+                "permalink": "/develop/tools/indexers"
+              },
+              "next": {
+                "title": "Butane-Name-Service",
+                "permalink": "/develop/tools/butane-name-service"
+              }
+            },
+            {
+              "unversionedId": "tools/contract-verifications",
+              "id": "tools/contract-verifications",
+              "title": "Contract Verification",
+              "description": "Contract verification refers to the process of auditing and verifying the code of smart contracts before they are deployed on the blockchain. This is an important step in ensuring that smart contracts function as intended and are free of vulnerabilities or security flaws.",
+              "source": "@site/docs/develop/tools/contract-verifications.md",
+              "sourceDirName": "tools",
+              "slug": "/tools/contract-verifications",
+              "permalink": "/develop/tools/contract-verifications",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/contract-verifications.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Oracles",
+                "permalink": "/develop/tools/oracles"
+              },
+              "next": {
+                "title": "Tools and IDE Plugins",
+                "permalink": "/develop/tools/tools-plugins"
+              }
+            },
+            {
+              "unversionedId": "tools/explorers",
+              "id": "tools/explorers",
+              "title": "Block Explorers",
+              "description": "Blockchain explorers allow users to query the blockchain for data. Explorers are often compared to search engines for the blockchain. By using an explorer, users can search and track balances, transactions, contracts, and other broadcast data to the bbbcScan offers two types block explorers: an EVM explorer and a butane explorer. Each explorer queries data respective to their environment with the EVM explorers querying Ethereum-formatted data (blocks, transactions, accounts, smart contracts, etc) and the butane explorers querying butane-formatted data (butane and IBC transactions, blocks, accounts, module data, etc).",
+              "source": "@site/docs/develop/tools/explorers.md",
+              "sourceDirName": "tools",
+              "slug": "/tools/explorers",
+              "permalink": "/develop/tools/explorers",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/explorers.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tools",
+                "permalink": "/develop/tools/"
+              },
+              "next": {
+                "title": "Oracles",
+                "permalink": "/develop/tools/oracles"
+              }
+            },
+            {
+              "unversionedId": "tools/index",
+              "id": "tools/index",
+              "title": "Tools",
+              "description": "Tools play a crucial role in blockchain development as they help streamline the development process and make it easier",
+              "source": "@site/docs/develop/tools/index.md",
+              "sourceDirName": "tools",
+              "slug": "/tools/",
+              "permalink": "/develop/tools/",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "💠 Mainnet",
+                "permalink": "/develop/mainnet"
+              },
+              "next": {
+                "title": "Block Explorers",
+                "permalink": "/develop/tools/explorers"
+              }
+            },
+            {
+              "unversionedId": "tools/indexers",
+              "id": "tools/indexers",
+              "title": "Indexers",
+              "description": "A graph indexer allows developers to efficiently query the network for information about transactions, addresses, and",
+              "source": "@site/docs/develop/tools/indexers.md",
+              "sourceDirName": "tools",
+              "slug": "/tools/indexers",
+              "permalink": "/develop/tools/indexers",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/indexers.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tools and IDE Plugins",
+                "permalink": "/develop/tools/tools-plugins"
+              },
+              "next": {
+                "title": "Butane Client Integrations",
+                "permalink": "/develop/tools/client-integrations"
+              }
+            },
+            {
+              "unversionedId": "tools/oracles",
+              "id": "tools/oracles",
+              "title": "Oracles",
+              "description": "Oracles are a crucial component of the decentralized web, enabling smart contracts to access off-chain data and interact",
+              "source": "@site/docs/develop/tools/oracles.md",
+              "sourceDirName": "tools",
+              "slug": "/tools/oracles",
+              "permalink": "/develop/tools/oracles",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/oracles.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Block Explorers",
+                "permalink": "/develop/tools/explorers"
+              },
+              "next": {
+                "title": "Contract Verification",
+                "permalink": "/develop/tools/contract-verifications"
+              }
+            },
+            {
+              "unversionedId": "tools/tools-plugins",
+              "id": "tools/tools-plugins",
+              "title": "Tools and IDE Plugins",
+              "description": "Smart Contract Development Tools",
+              "source": "@site/docs/develop/tools/tools-plugins.md",
+              "sourceDirName": "tools",
+              "slug": "/tools/tools-plugins",
+              "permalink": "/develop/tools/tools-plugins",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/tools-plugins.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Contract Verification",
+                "permalink": "/develop/tools/contract-verifications"
+              },
+              "next": {
+                "title": "Indexers",
+                "permalink": "/develop/tools/indexers"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": "Yield Farming",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "smart-contracts/list-evm-extensions"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "smart-contracts/index"
+                }
+              },
+              {
+                "type": "doc",
+                "label": " 💻 Frontend",
+                "id": "frontend/index"
+              },
+              {
+                "type": "doc",
+                "id": "backend"
+              },
+              {
+                "type": "category",
+                "label": " ⚙️ Testnet",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "testnet/auditing"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "testnet/index"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "mainnet"
+              },
+              {
+                "type": "category",
+                "label": " 🛠️ Tools",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tools/explorers"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tools/oracles"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tools/contract-verifications"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tools/tools-plugins"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tools/indexers"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tools/client-integrations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tools/butane-name-service"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "tools/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": " 🔥 Butane API",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "api/networks"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Ethereum JSON-RPC",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "api/ethereum-json-rpc/methods"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "api/ethereum-json-rpc/index"
+                    }
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/cosmos-grpc"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/tendermint-rpc"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/snapshots-archives"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "api/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Connect with us",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Twitter",
+                    "href": "https://twitter.com/Butane_Network"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Telegram",
+                    "href": "https://t.me/butanechain"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Discord",
+                    "href": "https://discord.gg/zk4t92b9MX"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Reddit",
+                    "href": "https://www.reddit.com/r/ButaneNetwork/"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Ecosystem",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Website",
+                    "href": "https://butane.tech/"
+                  },
+                  {
+                    "type": "link",
+                    "label": "DAO",
+                    "href": "https://commonwealth.im/butane"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Swap",
+                    "href": "https://flamez.io/"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "validate": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/validate",
+          "tagsPath": "/validate/tags",
+          "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate",
+          "editUrlLocalized": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/i18n/en/docusaurus-plugin-content-docs-validate/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\sidebars.js",
+          "contentPath": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\docs\\validate",
+          "contentPathLocalized": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\i18n\\en\\docusaurus-plugin-content-docs-validate\\current",
+          "docs": [
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "🔥 Overview",
+              "description": "Validating on Butane",
+              "source": "@site/docs/validate/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/validate/",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Run a Validator",
+                "permalink": "/validate/setup-and-configuration/run-a-validator"
+              }
+            },
+            {
+              "unversionedId": "mainnet",
+              "id": "mainnet",
+              "title": "🌐 Mainnet",
+              "description": "This document outlines the steps to join an existing mainnet.",
+              "source": "@site/docs/validate/mainnet.mdx",
+              "sourceDirName": ".",
+              "slug": "/mainnet",
+              "permalink": "/validate/mainnet",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/mainnet.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🆕 Testnet",
+                "permalink": "/validate/testnet"
+              },
+              "next": {
+                "title": "💨 Run an IBC Relayer",
+                "permalink": "/validate/relayers"
+              }
+            },
+            {
+              "unversionedId": "relayers",
+              "id": "relayers",
+              "title": "💨 Run an IBC Relayer",
+              "description": "What is an IBC Relayer?",
+              "source": "@site/docs/validate/relayers.md",
+              "sourceDirName": ".",
+              "slug": "/relayers",
+              "permalink": "/validate/relayers",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/relayers.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🌐 Mainnet",
+                "permalink": "/validate/mainnet"
+              },
+              "next": {
+                "title": "🪄 Stake & Withdraw",
+                "permalink": "/validate/stake"
+              }
+            },
+            {
+              "unversionedId": "security/index",
+              "id": "security/index",
+              "title": "Validator Security",
+              "description": "Each validator is encouraged to run its operations independently, as diverse setups increase the resilience of the network. Validator candidates should put aside meaningful time to guarantee a secure validator launch.",
+              "source": "@site/docs/validate/security/index.md",
+              "sourceDirName": "security",
+              "slug": "/security/",
+              "permalink": "/validate/security/",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/security/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Validator FAQ",
+                "permalink": "/validate/setup-and-configuration/faq"
+              },
+              "next": {
+                "title": "Tendermint KMS",
+                "permalink": "/validate/security/tendermint-kms"
+              }
+            },
+            {
+              "unversionedId": "security/tendermint-kms",
+              "id": "security/tendermint-kms",
+              "title": "Tendermint KMS",
+              "description": "Tendermint KMS is a Key Management Service (KMS) that allows separating key",
+              "source": "@site/docs/validate/security/tendermint-kms.md",
+              "sourceDirName": "security",
+              "slug": "/security/tendermint-kms",
+              "permalink": "/validate/security/tendermint-kms",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/security/tendermint-kms.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Validator Security",
+                "permalink": "/validate/security/"
+              },
+              "next": {
+                "title": "Validator Security Checklist",
+                "permalink": "/validate/security/validator-security-checklist"
+              }
+            },
+            {
+              "unversionedId": "security/validator-security-checklist",
+              "id": "security/validator-security-checklist",
+              "title": "Validator Security Checklist",
+              "description": "Find below a security checklist survey to go through the security measures of a validator.",
+              "source": "@site/docs/validate/security/validator-security-checklist.md",
+              "sourceDirName": "security",
+              "slug": "/security/validator-security-checklist",
+              "permalink": "/validate/security/validator-security-checklist",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/security/validator-security-checklist.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tendermint KMS",
+                "permalink": "/validate/security/tendermint-kms"
+              },
+              "next": {
+                "title": "Overview",
+                "permalink": "/validate/upgrades/"
+              }
+            },
+            {
+              "unversionedId": "setup-and-configuration/configuration",
+              "id": "setup-and-configuration/configuration",
+              "title": "Configuration",
+              "description": "Block Time",
+              "source": "@site/docs/validate/setup-and-configuration/configuration.md",
+              "sourceDirName": "setup-and-configuration",
+              "slug": "/setup-and-configuration/configuration",
+              "permalink": "/validate/setup-and-configuration/configuration",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/setup-and-configuration/configuration.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Run a Validator",
+                "permalink": "/validate/setup-and-configuration/run-a-validator"
+              },
+              "next": {
+                "title": "Disk Usage Optimization",
+                "permalink": "/validate/setup-and-configuration/disk-usage-configuration"
+              }
+            },
+            {
+              "unversionedId": "setup-and-configuration/disk-usage-configuration",
+              "id": "setup-and-configuration/disk-usage-configuration",
+              "title": "Disk Usage Optimization",
+              "description": "Customize the configuration settings to lower the disk requirements for your validator node.",
+              "source": "@site/docs/validate/setup-and-configuration/disk-usage-configuration.md",
+              "sourceDirName": "setup-and-configuration",
+              "slug": "/setup-and-configuration/disk-usage-configuration",
+              "permalink": "/validate/setup-and-configuration/disk-usage-configuration",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/setup-and-configuration/disk-usage-configuration.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Configuration",
+                "permalink": "/validate/setup-and-configuration/configuration"
+              },
+              "next": {
+                "title": "State Sync",
+                "permalink": "/validate/setup-and-configuration/state-sync"
+              }
+            },
+            {
+              "unversionedId": "setup-and-configuration/faq",
+              "id": "setup-and-configuration/faq",
+              "title": "Validator FAQ",
+              "description": "Check the FAQ for running a validator on Butane.",
+              "source": "@site/docs/validate/setup-and-configuration/faq.md",
+              "sourceDirName": "setup-and-configuration",
+              "slug": "/setup-and-configuration/faq",
+              "permalink": "/validate/setup-and-configuration/faq",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/setup-and-configuration/faq.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Mempool",
+                "permalink": "/validate/setup-and-configuration/mempool"
+              },
+              "next": {
+                "title": "Validator Security",
+                "permalink": "/validate/security/"
+              }
+            },
+            {
+              "unversionedId": "setup-and-configuration/mempool",
+              "id": "setup-and-configuration/mempool",
+              "title": "Mempool",
+              "description": "Learn about the available mempool options in Tendermint.",
+              "source": "@site/docs/validate/setup-and-configuration/mempool.md",
+              "sourceDirName": "setup-and-configuration",
+              "slug": "/setup-and-configuration/mempool",
+              "permalink": "/validate/setup-and-configuration/mempool",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/setup-and-configuration/mempool.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "State Sync",
+                "permalink": "/validate/setup-and-configuration/state-sync"
+              },
+              "next": {
+                "title": "Validator FAQ",
+                "permalink": "/validate/setup-and-configuration/faq"
+              }
+            },
+            {
+              "unversionedId": "setup-and-configuration/run-a-validator",
+              "id": "setup-and-configuration/run-a-validator",
+              "title": "Run a Validator",
+              "description": "Learn how to run a validator node.",
+              "source": "@site/docs/validate/setup-and-configuration/run-a-validator.md",
+              "sourceDirName": "setup-and-configuration",
+              "slug": "/setup-and-configuration/run-a-validator",
+              "permalink": "/validate/setup-and-configuration/run-a-validator",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/setup-and-configuration/run-a-validator.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🔥 Overview",
+                "permalink": "/validate/"
+              },
+              "next": {
+                "title": "Configuration",
+                "permalink": "/validate/setup-and-configuration/configuration"
+              }
+            },
+            {
+              "unversionedId": "setup-and-configuration/state-sync",
+              "id": "setup-and-configuration/state-sync",
+              "title": "State Sync",
+              "description": "Learn about Tendermint Core state sync and support offered by the Butane SDK.",
+              "source": "@site/docs/validate/setup-and-configuration/state-sync.md",
+              "sourceDirName": "setup-and-configuration",
+              "slug": "/setup-and-configuration/state-sync",
+              "permalink": "/validate/setup-and-configuration/state-sync",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/setup-and-configuration/state-sync.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Disk Usage Optimization",
+                "permalink": "/validate/setup-and-configuration/disk-usage-configuration"
+              },
+              "next": {
+                "title": "Mempool",
+                "permalink": "/validate/setup-and-configuration/mempool"
+              }
+            },
+            {
+              "unversionedId": "stake",
+              "id": "stake",
+              "title": "🪄 Stake & Withdraw",
+              "description": "Stake, Delegate and Withdraw",
+              "source": "@site/docs/validate/stake.md",
+              "sourceDirName": ".",
+              "slug": "/stake",
+              "permalink": "/validate/stake",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/stake.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "💨 Run an IBC Relayer",
+                "permalink": "/validate/relayers"
+              }
+            },
+            {
+              "unversionedId": "testnet",
+              "id": "testnet",
+              "title": "🆕 Testnet",
+              "description": "This document outlines the steps to join an existing testnet.",
+              "source": "@site/docs/validate/testnet.mdx",
+              "sourceDirName": ".",
+              "slug": "/testnet",
+              "permalink": "/validate/testnet",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/testnet.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Rollback",
+                "permalink": "/validate/upgrades/rollback"
+              },
+              "next": {
+                "title": "🌐 Mainnet",
+                "permalink": "/validate/mainnet"
+              }
+            },
+            {
+              "unversionedId": "upgrades/automated-upgrades",
+              "id": "upgrades/automated-upgrades",
+              "title": "Automated Upgrades",
+              "description": "We highly recommend validators use Cosmovisor to run their nodes. This will make low-downtime upgrades smoother, as validators don't have to manually upgrade binaries during the upgrade. Instead users can pre-install new binaries, and Cosmovisor will automatically update them based on on-chain Software Upgrade proposals.",
+              "source": "@site/docs/validate/upgrades/automated-upgrades.md",
+              "sourceDirName": "upgrades",
+              "slug": "/upgrades/automated-upgrades",
+              "permalink": "/validate/upgrades/automated-upgrades",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/upgrades/automated-upgrades.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Hard Fork Upgrades",
+                "permalink": "/validate/upgrades/hard-fork-upgrades"
+              },
+              "next": {
+                "title": "Manual Upgrades",
+                "permalink": "/validate/upgrades/manual-upgrades"
+              }
+            },
+            {
+              "unversionedId": "upgrades/hard-fork-upgrades",
+              "id": "upgrades/hard-fork-upgrades",
+              "title": "Hard Fork Upgrades",
+              "description": "",
+              "source": "@site/docs/validate/upgrades/hard-fork-upgrades.md",
+              "sourceDirName": "upgrades",
+              "slug": "/upgrades/hard-fork-upgrades",
+              "permalink": "/validate/upgrades/hard-fork-upgrades",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/upgrades/hard-fork-upgrades.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "List of Upgrades",
+                "permalink": "/validate/upgrades/list-of-upgrades"
+              },
+              "next": {
+                "title": "Automated Upgrades",
+                "permalink": "/validate/upgrades/automated-upgrades"
+              }
+            },
+            {
+              "unversionedId": "upgrades/index",
+              "id": "upgrades/index",
+              "title": "Overview",
+              "description": "Learn how to manage chain upgrades for full and validator nodes. There are 3 different categories for upgrades:",
+              "source": "@site/docs/validate/upgrades/index.md",
+              "sourceDirName": "upgrades",
+              "slug": "/upgrades/",
+              "permalink": "/validate/upgrades/",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/upgrades/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Validator Security Checklist",
+                "permalink": "/validate/security/validator-security-checklist"
+              },
+              "next": {
+                "title": "List of Upgrades",
+                "permalink": "/validate/upgrades/list-of-upgrades"
+              }
+            },
+            {
+              "unversionedId": "upgrades/list-of-upgrades",
+              "id": "upgrades/list-of-upgrades",
+              "title": "List of Upgrades",
+              "description": "Check the details and requirements for each mainnet and testnet upgrade.",
+              "source": "@site/docs/validate/upgrades/list-of-upgrades.md",
+              "sourceDirName": "upgrades",
+              "slug": "/upgrades/list-of-upgrades",
+              "permalink": "/validate/upgrades/list-of-upgrades",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/upgrades/list-of-upgrades.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/validate/upgrades/"
+              },
+              "next": {
+                "title": "Hard Fork Upgrades",
+                "permalink": "/validate/upgrades/hard-fork-upgrades"
+              }
+            },
+            {
+              "unversionedId": "upgrades/manual-upgrades",
+              "id": "upgrades/manual-upgrades",
+              "title": "Manual Upgrades",
+              "description": "Learn how to manually upgrade your node.",
+              "source": "@site/docs/validate/upgrades/manual-upgrades.md",
+              "sourceDirName": "upgrades",
+              "slug": "/upgrades/manual-upgrades",
+              "permalink": "/validate/upgrades/manual-upgrades",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/upgrades/manual-upgrades.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Automated Upgrades",
+                "permalink": "/validate/upgrades/automated-upgrades"
+              },
+              "next": {
+                "title": "Rollback",
+                "permalink": "/validate/upgrades/rollback"
+              }
+            },
+            {
+              "unversionedId": "upgrades/rollback",
+              "id": "upgrades/rollback",
+              "title": "Rollback",
+              "description": "Learn how to rollback the chain version in the case of an unsuccessful chain upgrade.",
+              "source": "@site/docs/validate/upgrades/rollback.md",
+              "sourceDirName": "upgrades",
+              "slug": "/upgrades/rollback",
+              "permalink": "/validate/upgrades/rollback",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/upgrades/rollback.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manual Upgrades",
+                "permalink": "/validate/upgrades/manual-upgrades"
+              },
+              "next": {
+                "title": "🆕 Testnet",
+                "permalink": "/validate/testnet"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": " ⚙️ Setup & Configuration",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "setup-and-configuration/run-a-validator"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "setup-and-configuration/configuration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "setup-and-configuration/disk-usage-configuration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "setup-and-configuration/state-sync"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "setup-and-configuration/mempool"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "setup-and-configuration/faq"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": " 🔐 Security",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "security/tendermint-kms"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "security/validator-security-checklist"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "security/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": " 🆙 Upgrades",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "upgrades/list-of-upgrades"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "upgrades/hard-fork-upgrades"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "upgrades/automated-upgrades"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "upgrades/manual-upgrades"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "upgrades/rollback"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "upgrades/index"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "testnet"
+              },
+              {
+                "type": "doc",
+                "id": "mainnet"
+              },
+              {
+                "type": "doc",
+                "id": "relayers"
+              },
+              {
+                "type": "doc",
+                "id": "stake"
+              },
+              {
+                "type": "category",
+                "label": "Connect with us",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Twitter",
+                    "href": "https://twitter.com/Butane_Network"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Telegram",
+                    "href": "https://t.me/butanechain"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Discord",
+                    "href": "https://discord.gg/zk4t92b9MX"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Reddit",
+                    "href": "https://www.reddit.com/r/ButaneNetwork/"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Ecosystem",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Website",
+                    "href": "https://butane.tech/"
+                  },
+                  {
+                    "type": "link",
+                    "label": "DAO",
+                    "href": "https://commonwealth.im/butane"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Swap",
+                    "href": "https://flamez.io/"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "protocol": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/protocol",
+          "tagsPath": "/protocol/tags",
+          "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol",
+          "editUrlLocalized": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/i18n/en/docusaurus-plugin-content-docs-protocol/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\sidebars.js",
+          "contentPath": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\docs\\protocol",
+          "contentPathLocalized": "C:\\Users\\doubl\\The_AME_docs\\Flamez_Docs\\i18n\\en\\docusaurus-plugin-content-docs-protocol\\current",
+          "docs": [
+            {
+              "unversionedId": "bugs",
+              "id": "bugs",
+              "title": "🐛 Bugs",
+              "description": "My Image",
+              "source": "@site/docs/protocol/bugs.md",
+              "sourceDirName": ".",
+              "slug": "/bugs",
+              "permalink": "/protocol/bugs",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/bugs.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "theblock",
+                "permalink": "/protocol/smartcontract-aptos/theblock"
+              },
+              "next": {
+                "title": "Security Overview",
+                "permalink": "/protocol/security/"
+              }
+            },
+            {
+              "unversionedId": "error",
+              "id": "error",
+              "title": "error",
+              "description": "",
+              "source": "@site/docs/protocol/error.md",
+              "sourceDirName": ".",
+              "slug": "/error",
+              "permalink": "/protocol/error",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/error.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Simple Arrangement for Funding Upload (SAFU)",
+                "permalink": "/protocol/security/safu"
+              },
+              "next": {
+                "title": "Frequently Asked Questions",
+                "permalink": "/protocol/faq"
+              }
+            },
+            {
+              "unversionedId": "faq",
+              "id": "faq",
+              "title": "Frequently Asked Questions",
+              "description": "Concepts",
+              "source": "@site/docs/protocol/faq.md",
+              "sourceDirName": ".",
+              "slug": "/faq",
+              "permalink": "/protocol/faq",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/faq.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "error",
+                "permalink": "/protocol/error"
+              }
+            },
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "Smart Contracts",
+              "description": "Butane is a scalable Delgated Proof-of-Stake blockchain that is fully compatible and",
+              "source": "@site/docs/protocol/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/protocol/",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Aptos Smart contracts",
+                "permalink": "/protocol/smartcontract-aptos/"
+              }
+            },
+            {
+              "unversionedId": "security/audits",
+              "id": "security/audits",
+              "title": "Audits",
+              "description": "Butane is connecting two major worlds in the crypto universe by enabling",
+              "source": "@site/docs/protocol/security/audits.md",
+              "sourceDirName": "security",
+              "slug": "/security/audits",
+              "permalink": "/protocol/security/audits",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/security/audits.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Security Overview",
+                "permalink": "/protocol/security/"
+              },
+              "next": {
+                "title": "Simple Arrangement for Funding Upload (SAFU)",
+                "permalink": "/protocol/security/safu"
+              }
+            },
+            {
+              "unversionedId": "security/index",
+              "id": "security/index",
+              "title": "Security Overview",
+              "description": "The Security Policy on Butane",
+              "source": "@site/docs/protocol/security/index.md",
+              "sourceDirName": "security",
+              "slug": "/security/",
+              "permalink": "/protocol/security/",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/security/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🐛 Bugs",
+                "permalink": "/protocol/bugs"
+              },
+              "next": {
+                "title": "Audits",
+                "permalink": "/protocol/security/audits"
+              }
+            },
+            {
+              "unversionedId": "security/safu",
+              "id": "security/safu",
+              "title": "Simple Arrangement for Funding Upload (SAFU)",
+              "description": "The Simple Arrangement for Funding Upload (the \"SAFU\")",
+              "source": "@site/docs/protocol/security/safu.md",
+              "sourceDirName": "security",
+              "slug": "/security/safu",
+              "permalink": "/protocol/security/safu",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/security/safu.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Audits",
+                "permalink": "/protocol/security/audits"
+              },
+              "next": {
+                "title": "error",
+                "permalink": "/protocol/error"
+              }
+            },
+            {
+              "unversionedId": "smartcontract-aptos/index",
+              "id": "smartcontract-aptos/index",
+              "title": "Aptos Smart contracts",
+              "description": "",
+              "source": "@site/docs/protocol/smartcontract-aptos/index.mdx",
+              "sourceDirName": "smartcontract-aptos",
+              "slug": "/smartcontract-aptos/",
+              "permalink": "/protocol/smartcontract-aptos/",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/smartcontract-aptos/index.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Smart Contracts",
+                "permalink": "/protocol/"
+              },
+              "next": {
+                "title": "theblock",
+                "permalink": "/protocol/smartcontract-aptos/theblock"
+              }
+            },
+            {
+              "unversionedId": "smartcontract-aptos/theblock",
+              "id": "smartcontract-aptos/theblock",
+              "title": "theblock",
+              "description": "",
+              "source": "@site/docs/protocol/smartcontract-aptos/theblock.md",
+              "sourceDirName": "smartcontract-aptos",
+              "slug": "/smartcontract-aptos/theblock",
+              "permalink": "/protocol/smartcontract-aptos/theblock",
+              "draft": false,
+              "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/smartcontract-aptos/theblock.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Aptos Smart contracts",
+                "permalink": "/protocol/smartcontract-aptos/"
+              },
+              "next": {
+                "title": "🐛 Bugs",
+                "permalink": "/protocol/bugs"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": " ⚙️ Smart Contracts (Aptos)",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "smartcontract-aptos/theblock"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "smartcontract-aptos/index"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "bugs"
+              },
+              {
+                "type": "category",
+                "label": " 🔐 Security",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "security/audits"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "security/safu"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "security/index"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "error"
+              },
+              {
+                "type": "doc",
+                "id": "faq"
+              },
+              {
+                "type": "category",
+                "label": "Connect with us",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Twitter",
+                    "href": "https://twitter.com/Butane_Network"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Telegram",
+                    "href": "https://t.me/butanechain"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Discord",
+                    "href": "https://discord.gg/zk4t92b9MX"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Reddit",
+                    "href": "https://www.reddit.com/r/ButaneNetwork/"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Ecosystem",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Website",
+                    "href": "https://butane.tech/"
+                  },
+                  {
+                    "type": "link",
+                    "label": "DAO",
+                    "href": "https://commonwealth.im/butane"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Swap",
+                    "href": "https://flamez.io/"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-plugin-google-gtag": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-theme-search-algolia": {},
+  "docusaurus-plugin-ideal-image": {},
+  "docusaurus-tailwindcss": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

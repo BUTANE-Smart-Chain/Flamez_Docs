@@ -1,0 +1,23 @@
+{
+  "unversionedId": "index",
+  "id": "index",
+  "title": "✨ Introducing",
+  "description": "Welcome to the go-to portal for in-depth information about the Butane Network ($BBC) platform and ecosystem and how to interact with them!",
+  "source": "@site/docs/use/index.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/use/",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "AMM/DEX",
+    "permalink": "/use/transfer-tokens/"
+  }
+}

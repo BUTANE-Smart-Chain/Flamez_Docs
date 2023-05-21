@@ -1,0 +1,27 @@
+{
+  "unversionedId": "upgrades/rollback",
+  "id": "upgrades/rollback",
+  "title": "Rollback",
+  "description": "Learn how to rollback the chain version in the case of an unsuccessful chain upgrade.",
+  "source": "@site/docs/validate/upgrades/rollback.md",
+  "sourceDirName": "upgrades",
+  "slug": "/upgrades/rollback",
+  "permalink": "/validate/upgrades/rollback",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/upgrades/rollback.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manual Upgrades",
+    "permalink": "/validate/upgrades/manual-upgrades"
+  },
+  "next": {
+    "title": "🆕 Testnet",
+    "permalink": "/validate/testnet"
+  }
+}

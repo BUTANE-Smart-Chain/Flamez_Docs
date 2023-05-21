@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setup-and-configuration/configuration",
+  "id": "setup-and-configuration/configuration",
+  "title": "Configuration",
+  "description": "Block Time",
+  "source": "@site/docs/validate/setup-and-configuration/configuration.md",
+  "sourceDirName": "setup-and-configuration",
+  "slug": "/setup-and-configuration/configuration",
+  "permalink": "/validate/setup-and-configuration/configuration",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/setup-and-configuration/configuration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Run a Validator",
+    "permalink": "/validate/setup-and-configuration/run-a-validator"
+  },
+  "next": {
+    "title": "Disk Usage Optimization",
+    "permalink": "/validate/setup-and-configuration/disk-usage-configuration"
+  }
+}

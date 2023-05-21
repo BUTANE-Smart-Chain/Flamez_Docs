@@ -1,0 +1,27 @@
+{
+  "unversionedId": "security/tendermint-kms",
+  "id": "security/tendermint-kms",
+  "title": "Tendermint KMS",
+  "description": "Tendermint KMS is a Key Management Service (KMS) that allows separating key",
+  "source": "@site/docs/validate/security/tendermint-kms.md",
+  "sourceDirName": "security",
+  "slug": "/security/tendermint-kms",
+  "permalink": "/validate/security/tendermint-kms",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/security/tendermint-kms.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Validator Security",
+    "permalink": "/validate/security/"
+  },
+  "next": {
+    "title": "Validator Security Checklist",
+    "permalink": "/validate/security/validator-security-checklist"
+  }
+}

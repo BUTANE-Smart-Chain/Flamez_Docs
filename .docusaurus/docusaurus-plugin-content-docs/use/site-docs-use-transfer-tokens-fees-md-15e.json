@@ -1,0 +1,27 @@
+{
+  "unversionedId": "transfer-tokens/fees",
+  "id": "transfer-tokens/fees",
+  "title": "Fees",
+  "description": "In Exchange , on default, Flamez Smart Router will utilize liquidity from , V2, StableSwap (BBC Chain), and the AMM and market makers (BBC Chain & Ethereum), to execute trades and find the best price for traders.",
+  "source": "@site/docs/use/transfer-tokens/fees.md",
+  "sourceDirName": "transfer-tokens",
+  "slug": "/transfer-tokens/fees",
+  "permalink": "/use/transfer-tokens/fees",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/transfer-tokens/fees.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to Trade",
+    "permalink": "/use/transfer-tokens/trade"
+  },
+  "next": {
+    "title": "Liquidity Pools (LP)",
+    "permalink": "/use/transfer-tokens/pools"
+  }
+}

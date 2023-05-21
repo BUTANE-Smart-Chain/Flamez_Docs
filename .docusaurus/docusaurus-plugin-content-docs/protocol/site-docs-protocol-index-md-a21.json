@@ -1,0 +1,23 @@
+{
+  "unversionedId": "index",
+  "id": "index",
+  "title": "Smart Contracts",
+  "description": "Butane is a scalable Delgated Proof-of-Stake blockchain that is fully compatible and",
+  "source": "@site/docs/protocol/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/protocol/",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Aptos Smart contracts",
+    "permalink": "/protocol/smartcontract-aptos/"
+  }
+}

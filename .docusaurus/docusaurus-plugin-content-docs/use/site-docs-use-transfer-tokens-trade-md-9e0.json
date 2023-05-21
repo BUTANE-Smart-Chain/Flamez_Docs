@@ -1,0 +1,27 @@
+{
+  "unversionedId": "transfer-tokens/trade",
+  "id": "transfer-tokens/trade",
+  "title": "How to Trade",
+  "description": "Trading on Flamez is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and trading routes and calculations are all handled for you by the Flamez Smart Router.",
+  "source": "@site/docs/use/transfer-tokens/trade.md",
+  "sourceDirName": "transfer-tokens",
+  "slug": "/transfer-tokens/trade",
+  "permalink": "/use/transfer-tokens/trade",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/transfer-tokens/trade.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Token Swaps",
+    "permalink": "/use/transfer-tokens/swap"
+  },
+  "next": {
+    "title": "Fees",
+    "permalink": "/use/transfer-tokens/fees"
+  }
+}

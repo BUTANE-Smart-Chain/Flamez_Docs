@@ -1,0 +1,24 @@
+{
+  "unversionedId": "smartcontract-aptos/theblock",
+  "id": "smartcontract-aptos/theblock",
+  "title": "theblock",
+  "description": "",
+  "source": "@site/docs/protocol/smartcontract-aptos/theblock.md",
+  "sourceDirName": "smartcontract-aptos",
+  "slug": "/smartcontract-aptos/theblock",
+  "permalink": "/protocol/smartcontract-aptos/theblock",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/smartcontract-aptos/theblock.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Aptos Smart contracts",
+    "permalink": "/protocol/smartcontract-aptos/"
+  },
+  "next": {
+    "title": "🐛 Bugs",
+    "permalink": "/protocol/bugs"
+  }
+}

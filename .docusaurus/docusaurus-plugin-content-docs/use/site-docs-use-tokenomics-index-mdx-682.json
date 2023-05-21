@@ -1,0 +1,29 @@
+{
+  "unversionedId": "tokenomics/index",
+  "id": "tokenomics/index",
+  "title": "Overview of tokenomics",
+  "description": "$BBC and $GAS (dao token)",
+  "source": "@site/docs/use/tokenomics/index.mdx",
+  "sourceDirName": "tokenomics",
+  "slug": "/tokenomics",
+  "permalink": "/use/tokenomics",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/use/tokenomics/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Overview of tokenomics",
+    "slug": "/tokenomics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Affilate Program",
+    "permalink": "/use/affilate"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/use/faq"
+  }
+}

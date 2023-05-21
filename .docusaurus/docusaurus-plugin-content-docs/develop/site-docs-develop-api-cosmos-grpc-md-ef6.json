@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api/cosmos-grpc",
+  "id": "api/cosmos-grpc",
+  "title": "Butane (Coming Soon) gRPC & REST",
+  "description": "Butane gRPC",
+  "source": "@site/docs/develop/api/cosmos-grpc.md",
+  "sourceDirName": "api",
+  "slug": "/api/cosmos-grpc",
+  "permalink": "/develop/api/cosmos-grpc",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/api/cosmos-grpc.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Methods",
+    "permalink": "/develop/api/ethereum-json-rpc/methods"
+  },
+  "next": {
+    "title": "Tendermint RPC",
+    "permalink": "/develop/api/tendermint-rpc"
+  }
+}

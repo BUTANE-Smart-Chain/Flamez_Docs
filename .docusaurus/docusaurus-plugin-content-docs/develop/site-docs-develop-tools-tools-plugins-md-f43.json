@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/tools-plugins",
+  "id": "tools/tools-plugins",
+  "title": "Tools and IDE Plugins",
+  "description": "Smart Contract Development Tools",
+  "source": "@site/docs/develop/tools/tools-plugins.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/tools-plugins",
+  "permalink": "/develop/tools/tools-plugins",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/tools-plugins.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contract Verification",
+    "permalink": "/develop/tools/contract-verifications"
+  },
+  "next": {
+    "title": "Indexers",
+    "permalink": "/develop/tools/indexers"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/contract-verifications",
+  "id": "tools/contract-verifications",
+  "title": "Contract Verification",
+  "description": "Contract verification refers to the process of auditing and verifying the code of smart contracts before they are deployed on the blockchain. This is an important step in ensuring that smart contracts function as intended and are free of vulnerabilities or security flaws.",
+  "source": "@site/docs/develop/tools/contract-verifications.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/contract-verifications",
+  "permalink": "/develop/tools/contract-verifications",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/contract-verifications.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Oracles",
+    "permalink": "/develop/tools/oracles"
+  },
+  "next": {
+    "title": "Tools and IDE Plugins",
+    "permalink": "/develop/tools/tools-plugins"
+  }
+}

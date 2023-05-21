@@ -1,0 +1,24 @@
+{
+  "unversionedId": "smartcontract-aptos/index",
+  "id": "smartcontract-aptos/index",
+  "title": "Aptos Smart contracts",
+  "description": "",
+  "source": "@site/docs/protocol/smartcontract-aptos/index.mdx",
+  "sourceDirName": "smartcontract-aptos",
+  "slug": "/smartcontract-aptos/",
+  "permalink": "/protocol/smartcontract-aptos/",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/smartcontract-aptos/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Smart Contracts",
+    "permalink": "/protocol/"
+  },
+  "next": {
+    "title": "theblock",
+    "permalink": "/protocol/smartcontract-aptos/theblock"
+  }
+}

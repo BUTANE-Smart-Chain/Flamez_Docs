@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/client-integrations",
+  "id": "tools/client-integrations",
+  "title": "Butane Client Integrations",
+  "description": "Client integration libraries play a crucial role in blockchain technology by making it easier for developers to interact",
+  "source": "@site/docs/develop/tools/client-integrations.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/client-integrations",
+  "permalink": "/develop/tools/client-integrations",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/tools/client-integrations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Indexers",
+    "permalink": "/develop/tools/indexers"
+  },
+  "next": {
+    "title": "Butane-Name-Service",
+    "permalink": "/develop/tools/butane-name-service"
+  }
+}

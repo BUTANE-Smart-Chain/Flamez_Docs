@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setup-and-configuration/mempool",
+  "id": "setup-and-configuration/mempool",
+  "title": "Mempool",
+  "description": "Learn about the available mempool options in Tendermint.",
+  "source": "@site/docs/validate/setup-and-configuration/mempool.md",
+  "sourceDirName": "setup-and-configuration",
+  "slug": "/setup-and-configuration/mempool",
+  "permalink": "/validate/setup-and-configuration/mempool",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/validate/setup-and-configuration/mempool.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "State Sync",
+    "permalink": "/validate/setup-and-configuration/state-sync"
+  },
+  "next": {
+    "title": "Validator FAQ",
+    "permalink": "/validate/setup-and-configuration/faq"
+  }
+}

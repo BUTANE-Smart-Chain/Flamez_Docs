@@ -1,0 +1,321 @@
+{
+  "pluginId": "validate",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "🔥 Overview",
+        "href": "/validate/",
+        "docId": "index"
+      },
+      {
+        "type": "category",
+        "label": " ⚙️ Setup & Configuration",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Run a Validator",
+            "href": "/validate/setup-and-configuration/run-a-validator",
+            "docId": "setup-and-configuration/run-a-validator"
+          },
+          {
+            "type": "link",
+            "label": "Configuration",
+            "href": "/validate/setup-and-configuration/configuration",
+            "docId": "setup-and-configuration/configuration"
+          },
+          {
+            "type": "link",
+            "label": "Disk Usage Optimization",
+            "href": "/validate/setup-and-configuration/disk-usage-configuration",
+            "docId": "setup-and-configuration/disk-usage-configuration"
+          },
+          {
+            "type": "link",
+            "label": "State Sync",
+            "href": "/validate/setup-and-configuration/state-sync",
+            "docId": "setup-and-configuration/state-sync"
+          },
+          {
+            "type": "link",
+            "label": "Mempool",
+            "href": "/validate/setup-and-configuration/mempool",
+            "docId": "setup-and-configuration/mempool"
+          },
+          {
+            "type": "link",
+            "label": "Validator FAQ",
+            "href": "/validate/setup-and-configuration/faq",
+            "docId": "setup-and-configuration/faq"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": " 🔐 Security",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Tendermint KMS",
+            "href": "/validate/security/tendermint-kms",
+            "docId": "security/tendermint-kms"
+          },
+          {
+            "type": "link",
+            "label": "Validator Security Checklist",
+            "href": "/validate/security/validator-security-checklist",
+            "docId": "security/validator-security-checklist"
+          }
+        ],
+        "href": "/validate/security/"
+      },
+      {
+        "type": "category",
+        "label": " 🆙 Upgrades",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "List of Upgrades",
+            "href": "/validate/upgrades/list-of-upgrades",
+            "docId": "upgrades/list-of-upgrades"
+          },
+          {
+            "type": "link",
+            "label": "Hard Fork Upgrades",
+            "href": "/validate/upgrades/hard-fork-upgrades",
+            "docId": "upgrades/hard-fork-upgrades"
+          },
+          {
+            "type": "link",
+            "label": "Automated Upgrades",
+            "href": "/validate/upgrades/automated-upgrades",
+            "docId": "upgrades/automated-upgrades"
+          },
+          {
+            "type": "link",
+            "label": "Manual Upgrades",
+            "href": "/validate/upgrades/manual-upgrades",
+            "docId": "upgrades/manual-upgrades"
+          },
+          {
+            "type": "link",
+            "label": "Rollback",
+            "href": "/validate/upgrades/rollback",
+            "docId": "upgrades/rollback"
+          }
+        ],
+        "href": "/validate/upgrades/"
+      },
+      {
+        "type": "link",
+        "label": "🆕 Testnet",
+        "href": "/validate/testnet",
+        "docId": "testnet"
+      },
+      {
+        "type": "link",
+        "label": "🌐 Mainnet",
+        "href": "/validate/mainnet",
+        "docId": "mainnet"
+      },
+      {
+        "type": "link",
+        "label": "💨 Run an IBC Relayer",
+        "href": "/validate/relayers",
+        "docId": "relayers"
+      },
+      {
+        "type": "link",
+        "label": "🪄 Stake & Withdraw",
+        "href": "/validate/stake",
+        "docId": "stake"
+      },
+      {
+        "type": "category",
+        "label": "Connect with us",
+        "items": [
+          {
+            "type": "link",
+            "label": "Twitter",
+            "href": "https://twitter.com/Butane_Network"
+          },
+          {
+            "type": "link",
+            "label": "Telegram",
+            "href": "https://t.me/butanechain"
+          },
+          {
+            "type": "link",
+            "label": "Discord",
+            "href": "https://discord.gg/zk4t92b9MX"
+          },
+          {
+            "type": "link",
+            "label": "Reddit",
+            "href": "https://www.reddit.com/r/ButaneNetwork/"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Ecosystem",
+        "items": [
+          {
+            "type": "link",
+            "label": "Website",
+            "href": "https://butane.tech/"
+          },
+          {
+            "type": "link",
+            "label": "DAO",
+            "href": "https://commonwealth.im/butane"
+          },
+          {
+            "type": "link",
+            "label": "Swap",
+            "href": "https://flamez.io/"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "index": {
+      "id": "index",
+      "title": "🔥 Overview",
+      "description": "Validating on Butane",
+      "sidebar": "tutorialSidebar"
+    },
+    "mainnet": {
+      "id": "mainnet",
+      "title": "🌐 Mainnet",
+      "description": "This document outlines the steps to join an existing mainnet.",
+      "sidebar": "tutorialSidebar"
+    },
+    "relayers": {
+      "id": "relayers",
+      "title": "💨 Run an IBC Relayer",
+      "description": "What is an IBC Relayer?",
+      "sidebar": "tutorialSidebar"
+    },
+    "security/index": {
+      "id": "security/index",
+      "title": "Validator Security",
+      "description": "Each validator is encouraged to run its operations independently, as diverse setups increase the resilience of the network. Validator candidates should put aside meaningful time to guarantee a secure validator launch.",
+      "sidebar": "tutorialSidebar"
+    },
+    "security/tendermint-kms": {
+      "id": "security/tendermint-kms",
+      "title": "Tendermint KMS",
+      "description": "Tendermint KMS is a Key Management Service (KMS) that allows separating key",
+      "sidebar": "tutorialSidebar"
+    },
+    "security/validator-security-checklist": {
+      "id": "security/validator-security-checklist",
+      "title": "Validator Security Checklist",
+      "description": "Find below a security checklist survey to go through the security measures of a validator.",
+      "sidebar": "tutorialSidebar"
+    },
+    "setup-and-configuration/configuration": {
+      "id": "setup-and-configuration/configuration",
+      "title": "Configuration",
+      "description": "Block Time",
+      "sidebar": "tutorialSidebar"
+    },
+    "setup-and-configuration/disk-usage-configuration": {
+      "id": "setup-and-configuration/disk-usage-configuration",
+      "title": "Disk Usage Optimization",
+      "description": "Customize the configuration settings to lower the disk requirements for your validator node.",
+      "sidebar": "tutorialSidebar"
+    },
+    "setup-and-configuration/faq": {
+      "id": "setup-and-configuration/faq",
+      "title": "Validator FAQ",
+      "description": "Check the FAQ for running a validator on Butane.",
+      "sidebar": "tutorialSidebar"
+    },
+    "setup-and-configuration/mempool": {
+      "id": "setup-and-configuration/mempool",
+      "title": "Mempool",
+      "description": "Learn about the available mempool options in Tendermint.",
+      "sidebar": "tutorialSidebar"
+    },
+    "setup-and-configuration/run-a-validator": {
+      "id": "setup-and-configuration/run-a-validator",
+      "title": "Run a Validator",
+      "description": "Learn how to run a validator node.",
+      "sidebar": "tutorialSidebar"
+    },
+    "setup-and-configuration/state-sync": {
+      "id": "setup-and-configuration/state-sync",
+      "title": "State Sync",
+      "description": "Learn about Tendermint Core state sync and support offered by the Butane SDK.",
+      "sidebar": "tutorialSidebar"
+    },
+    "stake": {
+      "id": "stake",
+      "title": "🪄 Stake & Withdraw",
+      "description": "Stake, Delegate and Withdraw",
+      "sidebar": "tutorialSidebar"
+    },
+    "testnet": {
+      "id": "testnet",
+      "title": "🆕 Testnet",
+      "description": "This document outlines the steps to join an existing testnet.",
+      "sidebar": "tutorialSidebar"
+    },
+    "upgrades/automated-upgrades": {
+      "id": "upgrades/automated-upgrades",
+      "title": "Automated Upgrades",
+      "description": "We highly recommend validators use Cosmovisor to run their nodes. This will make low-downtime upgrades smoother, as validators don't have to manually upgrade binaries during the upgrade. Instead users can pre-install new binaries, and Cosmovisor will automatically update them based on on-chain Software Upgrade proposals.",
+      "sidebar": "tutorialSidebar"
+    },
+    "upgrades/hard-fork-upgrades": {
+      "id": "upgrades/hard-fork-upgrades",
+      "title": "Hard Fork Upgrades",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "upgrades/index": {
+      "id": "upgrades/index",
+      "title": "Overview",
+      "description": "Learn how to manage chain upgrades for full and validator nodes. There are 3 different categories for upgrades:",
+      "sidebar": "tutorialSidebar"
+    },
+    "upgrades/list-of-upgrades": {
+      "id": "upgrades/list-of-upgrades",
+      "title": "List of Upgrades",
+      "description": "Check the details and requirements for each mainnet and testnet upgrade.",
+      "sidebar": "tutorialSidebar"
+    },
+    "upgrades/manual-upgrades": {
+      "id": "upgrades/manual-upgrades",
+      "title": "Manual Upgrades",
+      "description": "Learn how to manually upgrade your node.",
+      "sidebar": "tutorialSidebar"
+    },
+    "upgrades/rollback": {
+      "id": "upgrades/rollback",
+      "title": "Rollback",
+      "description": "Learn how to rollback the chain version in the case of an unsuccessful chain upgrade.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

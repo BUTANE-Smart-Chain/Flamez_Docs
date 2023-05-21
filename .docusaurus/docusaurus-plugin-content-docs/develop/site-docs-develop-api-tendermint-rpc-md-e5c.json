@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api/tendermint-rpc",
+  "id": "api/tendermint-rpc",
+  "title": "Tendermint RPC",
+  "description": "The Tendermint RPC allows you to query transactions, blocks, consensus state, broadcast transactions, etc.",
+  "source": "@site/docs/develop/api/tendermint-rpc.md",
+  "sourceDirName": "api",
+  "slug": "/api/tendermint-rpc",
+  "permalink": "/develop/api/tendermint-rpc",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/api/tendermint-rpc.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Butane (Coming Soon) gRPC & REST",
+    "permalink": "/develop/api/cosmos-grpc"
+  },
+  "next": {
+    "title": "Snapshots & Archive Nodes",
+    "permalink": "/develop/api/snapshots-archives"
+  }
+}

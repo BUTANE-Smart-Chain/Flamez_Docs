@@ -1,0 +1,27 @@
+{
+  "unversionedId": "mainnet",
+  "id": "mainnet",
+  "title": "💠 Mainnet",
+  "description": "Before real users begin to transact with actual funds on your dApp, it is important to take into account certain factors",
+  "source": "@site/docs/develop/mainnet.md",
+  "sourceDirName": ".",
+  "slug": "/mainnet",
+  "permalink": "/develop/mainnet",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/mainnet.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Security Audits",
+    "permalink": "/develop/testnet/auditing"
+  },
+  "next": {
+    "title": "Tools",
+    "permalink": "/develop/tools/"
+  }
+}

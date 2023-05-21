@@ -1,0 +1,24 @@
+{
+  "unversionedId": "error",
+  "id": "error",
+  "title": "error",
+  "description": "",
+  "source": "@site/docs/protocol/error.md",
+  "sourceDirName": ".",
+  "slug": "/error",
+  "permalink": "/protocol/error",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/error.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simple Arrangement for Funding Upload (SAFU)",
+    "permalink": "/protocol/security/safu"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/protocol/faq"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "security/audits",
+  "id": "security/audits",
+  "title": "Audits",
+  "description": "Butane is connecting two major worlds in the crypto universe by enabling",
+  "source": "@site/docs/protocol/security/audits.md",
+  "sourceDirName": "security",
+  "slug": "/security/audits",
+  "permalink": "/protocol/security/audits",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/protocol/security/audits.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Security Overview",
+    "permalink": "/protocol/security/"
+  },
+  "next": {
+    "title": "Simple Arrangement for Funding Upload (SAFU)",
+    "permalink": "/protocol/security/safu"
+  }
+}

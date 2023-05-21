@@ -1,0 +1,79 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "README",
+        "href": "/docs/",
+        "docId": "README"
+      },
+      {
+        "type": "category",
+        "label": "Connect with us",
+        "items": [
+          {
+            "type": "link",
+            "label": "Twitter",
+            "href": "https://twitter.com/Butane_Network"
+          },
+          {
+            "type": "link",
+            "label": "Telegram",
+            "href": "https://t.me/butanechain"
+          },
+          {
+            "type": "link",
+            "label": "Discord",
+            "href": "https://discord.gg/zk4t92b9MX"
+          },
+          {
+            "type": "link",
+            "label": "Reddit",
+            "href": "https://www.reddit.com/r/ButaneNetwork/"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Ecosystem",
+        "items": [
+          {
+            "type": "link",
+            "label": "Website",
+            "href": "https://butane.tech/"
+          },
+          {
+            "type": "link",
+            "label": "DAO",
+            "href": "https://commonwealth.im/butane"
+          },
+          {
+            "type": "link",
+            "label": "Swap",
+            "href": "https://flamez.io/"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "README": {
+      "id": "README",
+      "title": "README",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}
