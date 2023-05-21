@@ -1,0 +1,24 @@
+{
+  "unversionedId": "testnet/faq",
+  "id": "testnet/faq",
+  "title": "Pool FAQ & Troubleshooting",
+  "description": "",
+  "source": "@site/docs/develop/testnet/faq.md",
+  "sourceDirName": "testnet",
+  "slug": "/testnet/faq",
+  "permalink": "/develop/testnet/faq",
+  "draft": false,
+  "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/testnet/faq.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Auto AMPLE Pool",
+    "permalink": "/develop/testnet/bbchow"
+  },
+  "next": {
+    "title": "Tools",
+    "permalink": "/develop/tools/"
+  }
+}

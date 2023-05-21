@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Butane Client Integrations",
-    "permalink": "/develop/tools/client-integrations"
+    "title": "Tools and IDE Plugins",
+    "permalink": "/develop/tools/tools-plugins"
   },
   "next": {
     "title": "API",

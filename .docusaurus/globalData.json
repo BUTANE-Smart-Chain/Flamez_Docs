@@ -117,145 +117,6 @@
       ],
       "breadcrumbs": true
     },
-    "develop": {
-      "path": "/develop",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/develop",
-          "mainDocId": "index",
-          "docs": [
-            {
-              "id": "api/cosmos-grpc",
-              "path": "/develop/api/cosmos-grpc",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "api/ethereum-json-rpc/index",
-              "path": "/develop/api/ethereum-json-rpc/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "api/ethereum-json-rpc/methods",
-              "path": "/develop/api/ethereum-json-rpc/methods",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "api/index",
-              "path": "/develop/api/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "api/networks",
-              "path": "/develop/api/networks",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "api/snapshots-archives",
-              "path": "/develop/api/snapshots-archives",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "api/tendermint-rpc",
-              "path": "/develop/api/tendermint-rpc",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "backend",
-              "path": "/develop/backend",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "frontend/index",
-              "path": "/develop/frontend/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "index",
-              "path": "/develop/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "mainnet",
-              "path": "/develop/mainnet",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "smart-contracts/index",
-              "path": "/develop/smart-contracts/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "smart-contracts/list-evm-extensions",
-              "path": "/develop/smart-contracts/list-evm-extensions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "testnet/auditing",
-              "path": "/develop/testnet/auditing",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "testnet/index",
-              "path": "/develop/testnet/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tools/butane-name-service",
-              "path": "/develop/tools/butane-name-service",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tools/client-integrations",
-              "path": "/develop/tools/client-integrations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tools/contract-verifications",
-              "path": "/develop/tools/contract-verifications",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tools/explorers",
-              "path": "/develop/tools/explorers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tools/index",
-              "path": "/develop/tools/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tools/indexers",
-              "path": "/develop/tools/indexers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tools/oracles",
-              "path": "/develop/tools/oracles",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tools/tools-plugins",
-              "path": "/develop/tools/tools-plugins",
-              "sidebar": "tutorialSidebar"
-            }
-          ],
-          "draftIds": [],
-          "sidebars": {
-            "tutorialSidebar": {
-              "link": {
-                "path": "/develop/",
-                "label": "index"
-              }
-            }
-          }
-        }
-      ],
-      "breadcrumbs": true
-    },
     "validate": {
       "path": "/validate",
       "versions": [
@@ -401,6 +262,90 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/protocol/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "develop": {
+      "path": "/develop",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/develop",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "api/cosmos-grpc",
+              "path": "/develop/api/cosmos-grpc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/index",
+              "path": "/develop/api/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "backend",
+              "path": "/develop/backend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/develop/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smart-contracts/index",
+              "path": "/develop/smart-contracts/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "smart-contracts/list-evm-extensions",
+              "path": "/develop/smart-contracts/list-evm-extensions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "testnet/auditing",
+              "path": "/develop/testnet/auditing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "testnet/bbchow",
+              "path": "/develop/testnet/bbchow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "testnet/faq",
+              "path": "/develop/testnet/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "testnet/index",
+              "path": "/develop/testnet/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/index",
+              "path": "/develop/tools/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/tools-plugins",
+              "path": "/develop/tools/tools-plugins",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/develop/",
                 "label": "index"
               }
             }

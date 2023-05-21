@@ -1,8 +1,8 @@
 {
   "unversionedId": "testnet/auditing",
   "id": "testnet/auditing",
-  "title": "Security Audits",
-  "description": "Security audit is a comprehensive evaluation of the security and stability of a smart contract or decentralized",
+  "title": "How to Stake in Pools",
+  "description": "How to Stake in Pools with Flamez",
   "source": "@site/docs/develop/testnet/auditing.md",
   "sourceDirName": "testnet",
   "slug": "/testnet/auditing",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Testnet",
+    "title": "Pools",
     "permalink": "/develop/testnet/"
   },
   "next": {
-    "title": "💠 Mainnet",
-    "permalink": "/develop/mainnet"
+    "title": "Auto AMPLE Pool",
+    "permalink": "/develop/testnet/bbchow"
   }
 }

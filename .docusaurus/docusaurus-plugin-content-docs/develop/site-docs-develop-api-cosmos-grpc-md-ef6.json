@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Methods",
-    "permalink": "/develop/api/ethereum-json-rpc/methods"
+    "title": "API",
+    "permalink": "/develop/api/"
   },
   "next": {
-    "title": "Tendermint RPC",
-    "permalink": "/develop/api/tendermint-rpc"
+    "title": "NFT MarketPlace",
+    "permalink": "/develop/backend"
   }
 }

@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Contract Verification",
-    "permalink": "/develop/tools/contract-verifications"
+    "title": "Tools",
+    "permalink": "/develop/tools/"
   },
   "next": {
-    "title": "Indexers",
-    "permalink": "/develop/tools/indexers"
+    "title": "API",
+    "permalink": "/develop/api/"
   }
 }

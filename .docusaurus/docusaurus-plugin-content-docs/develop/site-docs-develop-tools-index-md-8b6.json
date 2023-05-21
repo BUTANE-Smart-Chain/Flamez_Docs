@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "💠 Mainnet",
-    "permalink": "/develop/mainnet"
+    "title": "Pool FAQ & Troubleshooting",
+    "permalink": "/develop/testnet/faq"
   },
   "next": {
-    "title": "Block Explorers",
-    "permalink": "/develop/tools/explorers"
+    "title": "Tools and IDE Plugins",
+    "permalink": "/develop/tools/tools-plugins"
   }
 }

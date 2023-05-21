@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Oracles",
-    "permalink": "/develop/tools/oracles"
+    "title": "Tools",
+    "permalink": "/develop/tools/"
   },
   "next": {
     "title": "Tools and IDE Plugins",

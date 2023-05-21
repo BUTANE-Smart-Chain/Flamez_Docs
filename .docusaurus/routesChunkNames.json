@@ -55,7 +55,7 @@
       "plugin": "plugin---search-50-c-95f"
     }
   },
-  "/develop-277": {
+  "/develop-96f": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---develop-165-cc7"
@@ -74,37 +74,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---develop-api-cosmos-grpcef-6-2f7"
   },
-  "/develop/api/ethereum-json-rpc-ab1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---develop-api-ethereum-json-rpc-9-ed-98e"
-  },
-  "/develop/api/ethereum-json-rpc/methods-68b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---develop-api-ethereum-json-rpc-methodsd-07-53a"
-  },
-  "/develop/api/networks-61b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---develop-api-networks-5-b-6-4e1"
-  },
-  "/develop/api/snapshots-archives-936": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---develop-api-snapshots-archivesafb-f55"
-  },
-  "/develop/api/tendermint-rpc-c08": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---develop-api-tendermint-rpce-5-c-816"
-  },
   "/develop/backend-84b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---develop-backend-49-c-6c5"
-  },
-  "/develop/frontend-b9d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---develop-frontend-14-f-da9"
-  },
-  "/develop/mainnet-a7b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---develop-mainnetd-94-952"
   },
   "/develop/smart-contracts-296": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -122,33 +94,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---develop-testnet-auditingb-43-d8f"
   },
+  "/develop/testnet/bbchow-826": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---develop-testnet-bbchow-5-bb-dcb"
+  },
+  "/develop/testnet/faq-a83": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---develop-testnet-faq-6-fd-9cc"
+  },
   "/develop/tools-5dc": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---develop-tools-8-b-6-a08"
-  },
-  "/develop/tools/butane-name-service-a1e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---develop-tools-butane-name-servicea-67-4af"
-  },
-  "/develop/tools/client-integrations-ecd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---develop-tools-client-integrations-965-9a6"
-  },
-  "/develop/tools/contract-verifications-9c8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---develop-tools-contract-verifications-8-ad-f92"
-  },
-  "/develop/tools/explorers-26c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---develop-tools-explorersf-9-f-cd3"
-  },
-  "/develop/tools/indexers-bde": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---develop-tools-indexers-1-fe-6a3"
-  },
-  "/develop/tools/oracles-763": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---develop-tools-oraclesc-08-19b"
   },
   "/develop/tools/tools-plugins-a4e": {
     "__comp": "__comp---theme-doc-item-178-a40",

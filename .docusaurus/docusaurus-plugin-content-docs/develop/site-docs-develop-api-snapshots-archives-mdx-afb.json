@@ -14,7 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tendermint RPC",
-    "permalink": "/develop/api/tendermint-rpc"
+    "title": "Butane (Coming Soon) gRPC & REST",
+    "permalink": "/develop/api/cosmos-grpc"
+  },
+  "next": {
+    "title": "NFT MarketPlace",
+    "permalink": "/develop/backend"
   }
 }

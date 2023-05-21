@@ -1,8 +1,8 @@
 {
   "unversionedId": "testnet/index",
   "id": "testnet/index",
-  "title": "Testnet",
-  "description": "Add Butane Testnet to Keplr.",
+  "title": "Pools",
+  "description": "What are Pools?",
   "source": "@site/docs/develop/testnet/index.mdx",
   "sourceDirName": "testnet",
   "slug": "/testnet/",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "💾 NFT MarketPlace",
-    "permalink": "/develop/backend"
+    "title": "List of EVM Extensions",
+    "permalink": "/develop/smart-contracts/list-evm-extensions"
   },
   "next": {
-    "title": "Security Audits",
+    "title": "How to Stake in Pools",
     "permalink": "/develop/testnet/auditing"
   }
 }

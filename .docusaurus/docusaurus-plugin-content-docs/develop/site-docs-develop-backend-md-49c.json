@@ -1,7 +1,7 @@
 {
   "unversionedId": "backend",
   "id": "backend",
-  "title": "💾 NFT MarketPlace",
+  "title": "NFT MarketPlace",
   "description": "It is important to note that not all DApps require a backend. For example, if the DApp is designed solely for",
   "source": "@site/docs/develop/backend.md",
   "sourceDirName": ".",
@@ -11,18 +11,10 @@
   "editUrl": "https://github.com/BUTANE-Smart-Chain/flamezio-frontend/docs/develop/backend.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
-  "frontMatter": {
-    "sidebar_position": 3,
-    "slug": "/backend"
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Frontend",
-    "permalink": "/develop/frontend/"
-  },
-  "next": {
-    "title": "Testnet",
-    "permalink": "/develop/testnet/"
+    "title": "Butane (Coming Soon) gRPC & REST",
+    "permalink": "/develop/api/cosmos-grpc"
   }
 }

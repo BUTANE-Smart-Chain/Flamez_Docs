@@ -49,7 +49,7 @@ export default [
   },
   {
     path: '/develop',
-    component: ComponentCreator('/develop', '277'),
+    component: ComponentCreator('/develop', '96f'),
     routes: [
       {
         path: '/develop',
@@ -70,50 +70,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/develop/api/ethereum-json-rpc',
-        component: ComponentCreator('/develop/api/ethereum-json-rpc', 'ab1'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/develop/api/ethereum-json-rpc/methods',
-        component: ComponentCreator('/develop/api/ethereum-json-rpc/methods', '68b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/develop/api/networks',
-        component: ComponentCreator('/develop/api/networks', '61b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/develop/api/snapshots-archives',
-        component: ComponentCreator('/develop/api/snapshots-archives', '936'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/develop/api/tendermint-rpc',
-        component: ComponentCreator('/develop/api/tendermint-rpc', 'c08'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/develop/backend',
         component: ComponentCreator('/develop/backend', '84b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/develop/frontend',
-        component: ComponentCreator('/develop/frontend', 'b9d'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/develop/mainnet',
-        component: ComponentCreator('/develop/mainnet', 'a7b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -142,44 +100,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/develop/testnet/bbchow',
+        component: ComponentCreator('/develop/testnet/bbchow', '826'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/develop/testnet/faq',
+        component: ComponentCreator('/develop/testnet/faq', 'a83'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/develop/tools',
         component: ComponentCreator('/develop/tools', '5dc'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/develop/tools/butane-name-service',
-        component: ComponentCreator('/develop/tools/butane-name-service', 'a1e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/develop/tools/client-integrations',
-        component: ComponentCreator('/develop/tools/client-integrations', 'ecd'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/develop/tools/contract-verifications',
-        component: ComponentCreator('/develop/tools/contract-verifications', '9c8'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/develop/tools/explorers',
-        component: ComponentCreator('/develop/tools/explorers', '26c'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/develop/tools/indexers',
-        component: ComponentCreator('/develop/tools/indexers', 'bde'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/develop/tools/oracles',
-        component: ComponentCreator('/develop/tools/oracles', '763'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

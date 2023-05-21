@@ -21,7 +21,7 @@
     "permalink": "/develop/api/"
   },
   "next": {
-    "title": "Ethereum JSON-RPC",
-    "permalink": "/develop/api/ethereum-json-rpc/"
+    "title": "Butane (Coming Soon) gRPC & REST",
+    "permalink": "/develop/api/cosmos-grpc"
   }
 }

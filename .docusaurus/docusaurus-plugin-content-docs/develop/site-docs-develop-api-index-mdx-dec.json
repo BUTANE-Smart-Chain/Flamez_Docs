@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Butane-Name-Service",
-    "permalink": "/develop/tools/butane-name-service"
+    "title": "Tools and IDE Plugins",
+    "permalink": "/develop/tools/tools-plugins"
   },
   "next": {
-    "title": "Networks",
-    "permalink": "/develop/api/networks"
+    "title": "Butane (Coming Soon) gRPC & REST",
+    "permalink": "/develop/api/cosmos-grpc"
   }
 }
