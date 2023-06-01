@@ -10,15 +10,13 @@ This page provides links or locations for Flamez smart contracts.
 
 ## Main Contracts - Butane Smart Chain (BBC)
 
-The following links will take you to the BscScan page for Flamez main smart contracts on the Butane Smart Chain.
+The following links will take you to the bbcscan page for Flamez main smart contracts on the Butane Smart Chain.
 
-### Coming Soon
+### Flamez Contracts
 
-- Flamez MasterChef: [Link](contract-address-masterchef-bsc)
-- Flamez Router: [Link](contract-address-router-bsc)
-- Flamez Factory: [Link](contract-address-factory-bsc)
-- Flamez Token: [Link](contract-address-token-bsc)
-- Flamez SyrupBar: [Link](contract-address-syrupbar-bsc)
+- Flamez Router: [https://bbcscan.io/address/0x16e7DB1Cc8916a02178587B50c00Fd5501B1575c]( 0xe3f2773B18A81C36e836EE988BCBA2FffF7E2Fbc )
+- Flamez Factory: [https://bbcscan.io/address/0xe3f2773B18A81C36e836EE988BCBA2FffF7E2Fbc]( 0x16e7DB1Cc8916a02178587B50c00Fd5501B1575c )
+- Flamez Token: [https://bbcscan.io/token/0x05c86418c11d610d28268e0C2aF2C2386fB38FDd/token-transfers]( 0x05c86418c11d610d28268e0C2aF2C2386fB38FDd )
 
 
 ## Farms Contracts

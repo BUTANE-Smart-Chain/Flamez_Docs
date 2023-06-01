@@ -2,7 +2,7 @@
 
 ## How to Stake in Pools with Flamez
 
-Flamez provides an easy way for you to earn FLAMEZ or other tokens while you rest! It's simpler than farming with Flamez's Yield Farms, since you only need to stake one token, typically FLAMEZ.
+Flamez provides an easy way for you to earn $AME or other tokens while you rest! It's simpler than farming with Flamez's Yield Farms, since you only need to stake one token, typically $AME.
 
 ## Getting Started with Pool Staking on Flamez
 
